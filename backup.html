@@ -1,0 +1,767 @@
+<!DOCTYPE html>
+<html lang="vi">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="icon" href="./assets/img/logo.svg" />
+        <link rel="stylesheet" href="./assets/css/reset.css" />
+        <title>Timestamp LSĐ Việt Nam</title>
+
+        <style>
+            @font-face {
+                font-family: "Independence";
+                src: url("./assets/font/INDEPENDENCE.OTF") format("opentype");
+                font-weight: normal;
+            }
+
+            @font-face {
+                font-family: "OpenSans";
+                src: url("./assets/font/OpenSans-Medium.ttf") format("truetype");
+                font-weight: 400;
+            }
+
+            @font-face {
+                font-family: "OpenSans";
+                src: url("./assets/font/OpenSans-SemiBold.ttf")
+                    format("truetype");
+                font-weight: 500;
+            }
+
+            @font-face {
+                font-family: "OpenSans";
+                src: url("./assets/font/OpenSans-Bold.ttf") format("truetype");
+                font-weight: 700;
+            }
+
+            * {
+                box-sizing: border-box;
+                --primary-color: #dd413e;
+                --background-color: #ebecdf;
+                --content-width: 1422px;
+                --gutter: 30px;
+                --collumn: 91px;
+            }
+
+            html {
+                font-size: 62.5%;
+                font-family: "OpenSans", sans-serif;
+            }
+
+            .main-content {
+                display: block;
+                width: 100%;
+                max-width: 100%;
+                margin: 0 auto;
+                background-color: var(--background-color);
+                /* border-left: 24px transparent solid;
+                border-right: 24px transparent solid; */
+            }
+
+            h1 {
+                font-family: "Independence";
+                font-size: 6rem;
+                color: var(--primary-color);
+            }
+
+            h2 {
+                font-size: 1.8rem;
+                font-weight: 700;
+                line-height: 1.3;
+                width: 50%;
+            }
+
+            h3 {
+                font-size: 1.6rem;
+                font-weight: 700;
+                line-height: 1.3;
+                width: 50%;
+            }
+
+            p {
+                font-family: "OpenSans";
+                font-weight: 400;
+                font-size: 18px;
+                line-height: 1.35;
+            }
+
+            span {
+                font-size: 16px;
+            }
+            /* Header */
+
+            .header {
+                position: relative;
+                height: 100vh;
+                max-width: 100vw;
+                overflow: hidden;
+                display: flex;
+                align-items: center;
+                /* justify-content: center; */
+                background-color: var(--background-color);
+            }
+
+            .header .mask {
+                z-index: 1;
+                position: absolute;
+                top: 0;
+                right: 0;
+                background-color: var(--background-color);
+                width: 100%;
+                height: 100%;
+            }
+
+            .header .illustration {
+                z-index: 3;
+                position: absolute;
+                height: 95vh;
+                /* max-width: 85vw; */
+                bottom: 0;
+                left: 50%;
+                transform: translateX(-50%);
+                pointer-events: none;
+            }
+
+            .header .map-vietnam {
+                z-index: 2;
+                position: absolute;
+                height: 120vh;
+                top: 5vh;
+                right: 0;
+                pointer-events: none;
+            }
+
+            .header .introduce {
+                z-index: 2;
+                padding-left: 100px;
+            }
+
+            .header h1:last-child {
+                position: relative;
+            }
+
+            .header .title h1:last-child::after {
+                z-index: 2;
+                content: "";
+                position: absolute;
+                display: block;
+                top: 0;
+                left: -24px;
+                background: linear-gradient(
+                    to bottom,
+                    rgba(221, 65, 62, 0.5),
+                    rgba(221, 65, 62, 0)
+                );
+                height: 240px;
+                width: calc(100vw - (100px - 24px) * 2);
+                pointer-events: none;
+            }
+
+            .header .desc {
+                margin-top: 12px;
+                width: 500px;
+            }
+
+            .header .introduce img {
+                height: 36px;
+            }
+
+            .header .introduce .get-started {
+                margin-top: 24px;
+                z-index: 4;
+                width: 50px;
+                height: 50px;
+                background-image: url("./assets/img/dropdown-red.svg");
+                background-size: 80%;
+                background-position: center;
+                background-repeat: no-repeat;
+                background-color: #f6bd72;
+                border-radius: 50%;
+                cursor: pointer;
+            }
+
+            /* Content */
+
+            .content-container {
+                position: relative;
+                min-height: 1000px;
+            }
+
+            .content-container .nav-bar {
+                z-index: 4;
+                position: sticky;
+                display: flex;
+                align-items: center;
+                gap: 12px;
+                top: 0;
+                height: 56px;
+                width: 100%;
+                padding: 0 100px;
+                background-color: var(--background-color);
+                box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px,
+                    rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
+            }
+
+            .nav-bar img {
+                height: 36px;
+            }
+
+            .content-container .container {
+                margin: 0 100px;
+                margin-top: 140px;
+            }
+
+            .content-container .content {
+                margin-left: 25%;
+            }
+
+            .map-vietnam-gray {
+                /* z-index: 0; */
+                position: fixed;
+                height: 120vh;
+                top: 5vh;
+                right: 0;
+                pointer-events: none;
+            }
+        </style>
+
+        <style>
+            .accordion {
+                margin-top: 0px;
+                margin-bottom: 0px;
+                /* background-color: #ccc; */
+                /* overflow: hidden; */
+            }
+
+            .accordion .accordion {
+                margin-top: 0x;
+                margin-bottom: 0;
+            }
+
+            .accordion-header {
+                cursor: pointer;
+            }
+
+            .accordion-header h2:hover {
+                background-color: #e0e0d5;
+            }
+            .accordion-content {
+                /* padding: 0 10px; */
+                margin-top: 24px;
+
+                max-height: 0px;
+                overflow: hidden;
+                transition: max-height 0.5s ease, padding 0.5s ease;
+            }
+
+            .accordion-content .desc {
+                opacity: 0.8;
+                width: 50%;
+                margin-bottom: 24px;
+            }
+
+            table .desc {
+                width: 65% !important;
+                margin-bottom: 0 !important;
+            }
+            .accordion-content.open {
+            }
+
+            /* .accordion-content h2 {
+                width: 100%;
+            } */
+            .accordion-content .accordion-content {
+                width: 100%;
+            }
+
+            .accordion .accordion-content h2 {
+                font-size: 18px;
+                opacity: 0.87;
+                opacity: 1;
+                font-weight: 500;
+            }
+
+            .accordion-content ul {
+                display: flex;
+                flex-direction: column;
+                margin-top: 24px;
+                gap: 24px;
+            }
+
+            table td .accordion {
+                margin-top: 0 !important;
+                margin-bottom: 0 !important;
+                /* width:; */
+                opacity: 0.87;
+            }
+            table td .accordion p {
+                font-size: 16px;
+            }
+
+            table td .accordion-content {
+                margin-top: 12px !important;
+                transition: none;
+            }
+
+            table td .accordion-header {
+                position: relative;
+            }
+
+            table td .accordion-header::before {
+                content: "";
+                position: absolute;
+                top: 0;
+                left: -24px;
+                width: 24px;
+                height: 24px;
+                background-image: url("./assets/img/dropdown-gray.svg");
+                transition: transform 0.3s ease;
+            }
+
+            /* .content-container
+                > .content
+                > .accordion
+                > .accordion-content
+                > .accordion {
+                width: calc(100vw - 100px * 2) !important;
+                background-color: red !important;
+            } */
+        </style>
+
+        <style>
+            table {
+                border-spacing: 12px;
+                border-collapse: separate;
+            }
+
+            table tr {
+                gap: 12px;
+                height: 40px;
+            }
+
+            table td {
+                /* height: 100%; */
+                height: 40px;
+            }
+            table tr:nth-of-type(odd) td {
+                vertical-align: middle;
+            }
+
+            table tr:nth-of-type(odd) td:first-child {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+
+            table tr:nth-of-type(even) td:first-child {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+
+            table tr:nth-of-type(even) td:nth-child(2) {
+                vertical-align: top;
+            }
+
+            table tr .vertical-line {
+                height: 100%;
+                width: 1px;
+                background-color: #bfbfbf;
+            }
+
+            table tr .timeline {
+                font-weight: 700;
+                font-size: 18px;
+                padding: 4px 16px;
+                border: 1px black solid;
+                width: 100%;
+                text-align: center;
+            }
+
+            .timeline:hover {
+                background-color: #e0e0d5;
+            }
+
+            .timeline-header {
+                font-size: 18px;
+                line-height: 1.25;
+            }
+
+            table td {
+                position: relative;
+            }
+
+            /* table td .quote {
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                right: -50%;
+            } */
+
+            table tr td:nth-child(3) {
+                vertical-align: top;
+            }
+
+            table td .quote {
+                width: 400px;
+                color: white;
+                background-color: #0d0d0d;
+                padding: 8px 24px;
+                border-radius: 12px;
+                line-height: 1.35;
+                font-size: 14px;
+                margin: auto 0;
+            }
+
+            table .timeline-desc {
+                opacity: 0.8;
+                font-size: 14px;
+                line-height: 1.35;
+            }
+
+            .accordion-content .desc:not(:first-child) {
+                margin-top: 12px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="main-content">
+            <div class="body">
+                <div class="header">
+                    <div class="mask"></div>
+                    <img
+                        class="illustration"
+                        src="./assets/img/illustration.svg"
+                        alt=""
+                    />
+
+                    <img
+                        class="map-vietnam"
+                        src="./assets/img/BanDoVietNam-red.svg"
+                        alt=""
+                    />
+
+                    <div class="introduce">
+                        <img src="./assets/img/ĐCSVN.svg" alt="" />
+                        <div class="title">
+                            <h1>Lịch Sử Đảng</h1>
+                            <h1>Cộng Sản Việt Nam</h1>
+                        </div>
+                        <p class="desc">
+                            Chào mừng bạn đến với trang web ghi dấu những mốc
+                            son lịch sử của Đảng Cộng sản Việt Nam – tổ chức đã
+                            lãnh đạo dân tộc Việt Nam vượt qua biết bao thử
+                            thách, đấu tranh vì độc lập, tự do và hạnh phúc
+                        </p>
+                        <div class="get-started"></div>
+                    </div>
+                </div>
+                <img
+                    class="map-vietnam-gray"
+                    src="./assets/img/DoDoVietNam-gray.svg"
+                    alt=""
+                />
+                <div class="content-container">
+                    <div class="nav-bar">
+                        <img src="./assets/img/ĐCSVN.svg" alt="" />
+                        <span>Lịch sử Đảng Cộng Sản Việt Nam</span>
+                    </div>
+
+                    <div class="container">
+                        <div class="content" id="markdown-content">
+                            <div class="accordion">
+                                <div class="accordion-header">
+                                    <h2>
+                                        I. ĐẢNG CỘNG SẢN VIỆT NAM RA ĐỜI, BƯỚC
+                                        NGOẶT QUYẾT ĐỊNH CỦA CÁCH MẠNG VIỆT NAM
+                                    </h2>
+                                </div>
+                                <div class="accordion-content">
+                                    <p class="desc">
+                                        Ngày 3-2-1930, Đảng Cộng sản Việt Nam ra
+                                        đời. Đó là kết quả của sự chuẩn bị đầy
+                                        đủ về tư tưởng, chính trị và tổ chức;
+                                        của sự vận dụng và phát triển sáng tạo
+                                        chủ nghĩa Mác - Lênin vào điều kiện cụ
+                                        thể nước ta; là sản phẩm của sự kết hợp
+                                        chủ nghĩa Mác - Lênin với phong trào
+                                        công nhân và phong trào yêu nước. Sự ra
+                                        đời của Đảng đáp ứng nhu cầu lịch sử của
+                                        đất nước ta; phù hợp với xu thế phát
+                                        triển của thời đại.
+                                    </p>
+                                    <div class="accordion">
+                                        <div class="accordion-header">
+                                            <h2>
+                                                1. Tình hình xã hội Việt Nam
+                                                trước khi Đảng Cộng sản Việt Nam
+                                                ra đời
+                                            </h2>
+                                        </div>
+                                        <div class="accordion-content">
+                                            <p class="desc">description</p>
+
+                                            <table>
+                                                <tr>
+                                                    <td>
+                                                        <div class="timeline">
+                                                            1/9/1858
+                                                        </div>
+                                                    </td>
+                                                    <td>
+                                                        <div
+                                                            class="timeline-header"
+                                                        >
+                                                            Từ năm 1858, thực
+                                                            dân Pháp bắt đầu xâm
+                                                            lược Việt Nam
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <div
+                                                            class="vertical-line"
+                                                        ></div>
+                                                    </td>
+                                                    <td>
+                                                        <div class="accordion">
+                                                            <div
+                                                                class="accordion-header"
+                                                            >
+                                                                <p class="desc">
+                                                                    Từ năm 1858,
+                                                                    thực dân
+                                                                    Pháp bắt đầu
+                                                                    xâm lược
+                                                                    Việt Nam,
+                                                                    từng bước
+                                                                    thiết lập
+                                                                    chế độ thống
+                                                                    trị tàn bạo,
+                                                                    phản động
+                                                                    của chủ
+                                                                    nghĩa thực
+                                                                    dân trên đất
+                                                                    nước ta.
+                                                                </p>
+                                                            </div>
+                                                            <div
+                                                                class="accordion-content"
+                                                            >
+                                                                <p class="desc">
+                                                                    Về chính
+                                                                    trị, chúng
+                                                                    trực tiếp
+                                                                    nắm giữ các
+                                                                    chức vụ chủ
+                                                                    chốt trong
+                                                                    bộ máy nhà
+                                                                    nước, thi
+                                                                    hành chính
+                                                                    sách cai trị
+                                                                    chuyên chế,
+                                                                    biến một bộ
+                                                                    phận của
+                                                                    giai cấp tư
+                                                                    sản mại bản
+                                                                    và địa chủ
+                                                                    phong
+                                                                </p>
+                                                                <p class="desc">
+                                                                    Về kinh tế,
+                                                                    chúng triệt
+                                                                    để khai thác
+                                                                    Đông Dương
+                                                                    vì lợi ích
+                                                                    của giai cấp
+                                                                    tư sản Pháp,
+                                                                    bóc lột tàn
+                                                                    bạo nhân dân
+                                                                    ta, thực
+                                                                    hiện chính
+                                                                    sách độc
+                                                                    quyền, kìm
+                                                                    hãm sự phát
+                                                                    triển kinh
+                                                                    tế độc lập
+                                                                    của nước ta
+                                                                </p>
+                                                            </div>
+                                                        </div>
+                                                    </td>
+                                                    <td>
+                                                        <div class="quote">
+                                                            "Nếu giặc đến thì
+                                                            đánh, chỉ có đánh
+                                                            mới giữ được nước."
+                                                            (Nguyễn Tri Phương)
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <div class="timeline">
+                                                            1900
+                                                        </div>
+                                                    </td>
+                                                    <td>
+                                                        <div
+                                                            class="timeline-header"
+                                                        >
+                                                            Sự kiện tiếp theo
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <div
+                                                            class="vertical-line"
+                                                        ></div>
+                                                    </td>
+                                                    <td>
+                                                        <p
+                                                            class="timeline-desc"
+                                                        >
+                                                            Nội dung ở đây
+                                                        </p>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="./assets/js/jquery3.6.0.js"></script>
+        <script src="./assets/js/script.js"></script>
+
+        <!-- <script>
+            const getStartedButton = document.querySelector(".get-started");
+            const contentContainer =
+                document.querySelector(".content-container");
+            getStartedButton.addEventListener("click", () => {
+                contentContainer.scrollIntoView({
+                    behavior: "smooth",
+                    block: "start",
+                });
+            });
+
+            // Chọn tất cả các tiêu đề accordion
+            const headers = document.querySelectorAll(".accordion-header");
+
+            headers.forEach((header) => {
+                header.addEventListener("click", () => {
+                    const content = header.nextElementSibling;
+                    const parentAccordion = header.closest(".accordion"); // Accordion cha
+
+                    // Nếu đang mở thì thu nhỏ
+                    console.log("MAXHEIGHT = " + content.style.maxHeight);
+                    if (
+                        content.style.maxHeight !== "0px" &&
+                        content.style.maxHeight !== ""
+                    ) {
+                        console.log("THU NHỎ");
+                        // content.style.maxHeight = 0;
+                        // content.classList.remove("open");
+
+                        parentAccordion
+                            .querySelectorAll(".accordion-content")
+                            .forEach((otherContent) => {
+                                // var table = otherContent.querySelector("table");
+                                // if (table) {
+                                otherContent.style.maxHeight = 0;
+                                otherContent.classList.remove("open");
+                                // }
+                            });
+
+                        setTimeout(() => {
+                            const table =
+                                parentAccordion.querySelector("table");
+                            if (table) {
+                                table.querySelectorAll("tr").forEach((row) => {
+                                    adjustTdHeight(
+                                        row,
+                                        row.dataset.base_height
+                                    );
+                                });
+                            }
+                        }, 500);
+
+                        adjustParentHeight(parentAccordion); // Cập nhật chiều cao cha
+                    } else {
+                        console.log("MỞ RỘNG");
+                        // Thu nhỏ tất cả nội dung trong accordion cha
+                        // parentAccordion
+                        //     .querySelectorAll(".accordion-content")
+                        //     .forEach((otherContent) => {
+                        //         otherContent.style.maxHeight = null;
+                        //         otherContent.classList.remove("open");
+                        //     });
+
+                        // Mở rộng nội dung được chọn
+                        content.style.maxHeight = content.scrollHeight + "px";
+                        content.classList.add("open");
+                        adjustParentHeight(parentAccordion); // Cập nhật chiều cao cha
+                    }
+                });
+            });
+
+            function adjustParentHeight(accordion) {
+                let totalHeight = 0;
+
+                // Tính tổng chiều cao của tất cả các accordion-content đang mở
+                accordion
+                    .querySelectorAll(".accordion-content.open")
+                    .forEach((openContent) => {
+                        totalHeight += openContent.scrollHeight;
+                    });
+
+                console.log(totalHeight + "px");
+                const content = accordion.querySelector(".accordion-content");
+                console.log("CONTENT " + content);
+                content.style.maxHeight = totalHeight + "px";
+                const parentContent = accordion.closest(".accordion-content");
+                const tableRow = accordion.closest("tr");
+                if (parentContent) {
+                    adjustParentHeight(parentContent.closest(".accordion"));
+                }
+
+                if (tableRow) {
+                    // console.log("H2" + accordion.offsetHeight);
+                    // adjustTdHeight(tableRow, accordion.offsetHeight);
+                    requestAnimationFrame(function () {
+                        var accordionHeight = Math.min(
+                            tableRow.offsetHeight,
+                            accordion.offsetHeight
+                        ); // Lấy chiều cao đúng của accordion
+
+                        if (tableRow) {
+                            adjustTdHeight(tableRow, accordionHeight);
+                        }
+                    });
+                }
+            }
+
+            document.querySelectorAll("tr").forEach((row) => {
+                row.dataset.base_height = row.offsetHeight;
+                adjustTdHeight(row, row.offsetHeight);
+            });
+
+            function adjustTdHeight(row, height) {
+                var tds = row.querySelectorAll("td");
+                var trHeight = Math.max(height, 40); // Lấy chiều cao của tr
+
+                // Đặt chiều cao của mỗi td bằng chiều cao của tr
+                tds.forEach(function (td) {
+                    td.style.height = trHeight + "px";
+                });
+            }
+        </script> -->
+
+        <script></script>
+    </body>
+</html>
