@@ -17,6 +17,21 @@ $.ajax({
         const htmlContent = parseMarkdown(0, -1, lines, levels).htmlString; // Hàm chuyển Markdown thành HTML
         $("#markdown-content").empty();
         $("#markdown-content").append(htmlContent);
+
+        const fatherheader = document.querySelector(".accordion-header");
+        const fathercontent = fatherheader.nextElementSibling;
+        fathercontent.style.maxHeight = fathercontent.scrollHeight + "px";
+        fathercontent.classList.add("open");
+        adjustParentHeight(fatherheader.closest(".accordion")); // Cập nhật chiều cao cha
+
+        const header = document
+            .querySelector(".accordion-content")
+            .querySelector(".accordion-header");
+        const content = header.nextElementSibling;
+        content.style.maxHeight = content.scrollHeight + "px";
+        content.classList.add("open");
+        adjustParentHeight(header.closest(".accordion")); // Cập nhật chiều cao cha
+
         console.log(htmlContent);
 
         addAnimation();
