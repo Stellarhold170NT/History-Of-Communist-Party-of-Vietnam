@@ -7,13 +7,37 @@
         [list]
             _: 1/9/1858
             * Từ năm 1858, thực dân Pháp bắt đầu xâm lược Việt Nam
-            + Từ năm 1858, thực dân Pháp bắt đầu xâm lược Việt Nam, từng bước thiết lập chế độ thống trị tàn bạo, phản động của chủ nghĩa thực dân trên đất nước ta.
-            + Về chính trị, chúng trực tiếp nắm giữ các chức vụ chủ chốt trong bộ máy nhà nước, thi hành chính sách cai trị chuyên chế, biến một bộ phận của giai cấp tư sản mại bản và địa chủ phong
-            + Về kinh tế, chúng triệt để khai thác Đông Dương vì lợi ích của giai cấp tư sản Pháp, bóc lột tàn bạo nhân dân ta, thực hiện chính sách độc quyền, kìm hãm sự phát triển kinh tế độc lập của nước ta
+            + Từ năm 1858, thực dân Pháp bắt đầu xâm lược Việt Nam, từng bước thiết lập chế độ thống trị tàn bạo, phản động của chủ nghĩa thực dân trên đất nước ta
+            + Xã hội Việt Nam có hai mâu thuẫn cơ bản là
+	    + 1. Một là: mâu thuẫn giữa nhân dân Việt Nam chủ yếu là giai cấp nông dân với giai cấp địa chủ phong kiến (mâu thuẫn vốn có trong xã hội phong kiến)
+	    + 2. Hai là: Mâu thuẫn giữa toàn thể dân tộc Việt Nam với đế quốc Pháp xâm lược và bọn tay sai (*mâu thuẫn mới xuất hiện sau khi Pháp xâm lược*)
+            + Trong đó, mâu thuẫn vừa cơ bản vừa chủ yếu nhất trong xã hội Việt Nam dưới thời Thực dân Pháp thống trị là mâu thuẫn giữa Toàn thể dân tộc Việt Nam với Thực dân Pháp
             > "Nếu giặc đến thì đánh, chỉ có đánh mới giữ được nước." (Nguyễn Tri Phương)
-            _: 1900
-            * Sự kiện tiếp theo
-            + Nội dung ở đây
+            _: 1885-1896
+            * Phong trào Cần Vương
+            + 1885: Phong trào Cần Vương bùng nổ sau chiếu Cần Vương của vua Hàm Nghi, kêu gọi nhân dân chống Pháp giành độc lập.
+            + Cuộc khởi nghĩa Hương Khê (1885–1896), do Phan Đình Phùng và Cao Thắng lãnh đạo, là một trong những phong trào yêu nước tiêu biểu nhất cuối thế kỷ 19 chống lại thực dân Pháp. Đây cũng được coi là cuộc khởi nghĩa cuối cùng gắn liền với hệ tư tưởng phong kiến và vai trò lãnh đạo của tầng lớp sĩ phu, đánh dấu sự suy tàn của giai cấp phong kiến trong vai trò lãnh đạo phong trào yêu nước
+            + 1896: Phong trào Cần Vương tan rã sau thất bại của nhiều cuộc khởi nghĩa.
+            + Thất bại của phong trào Cần Vương chứng tỏ sự bất lực của hệ tư tưởng phong kiến trong việc giải quyết nhiệm vụ giành độc lập dân tộc do lịch sử đặt ra
+
+            _: 1904-1908
+            * Phong trào Duy Tân và Đông Du
+            + Lãnh đạo: Phan Bội Châu, Phan Châu Trinh.
+            + Mục tiêu
+            + + Cả hai đều là phong trào yêu nước theo khuynh hướng dân chủ tư sản
+            + + Đông Du: Đưa thanh niên yêu nước sang Nhật Bản học tập các kiến thức về khoa học, quân sự và chính trị để chuẩn bị cho công cuộc đấu tranh giải phóng dân tộc.
+            + + Duy Tân: Cải cách xã hội, nâng cao dân trí và cải thiện dân sinh. Dựa vào cải cách, dùng văn hóa và giáo dục để làm nền tảng cho một xã hội tiến bộ, từ đó tự lực đấu tranh giành độc lập mà không cần sử dụng bạo lực.
+            + Nguyên nhân thất bại
+            + + Phụ thuộc vào Nhật Bản – một nước có tham vọng thực dân ở Đông Á.
+            + + Các đề nghị cải cách của phong trào Duy Tân còn tản mạn, xa rời thực tế, không phù hợp với hoàn cảnh đất nước lúc bấy giờ.
+            + + Chưa giải quyết được mâu thuẫn cơ bản của xã hội Việt Nam lúc đó như: mâu thuẫn giữa toàn thể nhân dân Việt Nam với thực dân Pháp, mâu thuẫn sâu sắc giữa nông dân với địa chủ phong kiến.
+
+            _: 2/1930
+            * Khởi nghĩa Yên Bái
+            + Khởi nghĩa Yên Bái (9/2/1930), do Việt Nam Quốc dân Đảng (VNQDĐ) lãnh đạo, là nỗ lực cuối cùng của khuynh hướng dân chủ tư sản trong phong trào đấu tranh giải phóng dân tộc ở Việt Nam
+            + Bài học
+            + + Cuộc khởi nghĩa cho thấy sự hạn chế của khuynh hướng dân chủ tư sản: không có lực lượng quần chúng đông đảo, thiếu tổ chức mạnh mẽ và không phù hợp với bối cảnh xã hội thuộc địa nửa phong kiến.
+            + + Cần một tổ chức cách mạng với hệ tư tưởng tiên tiến và gắn bó với giai cấp công nhân, nông dân để thực hiện thành công nhiệm vụ giải phóng dân tộc.
     ## 2. Phong trào đấu tranh của nhân dân ta trước khi Đảng ra đời
         [desc]
         Trong quá trình đấu tranh dựng nước và giữ nước lâu dài, gian khổ, dân tộc ta sớm hình thành truyền thống yêu nước nồng nàn, tinh thần đấu tranh anh dũng, bất khuất. Vì vậy, ngay từ khi thực dân Pháp xâm lược, nhân dân ta liên tiếp đứng lên chống lại chúng. Từ năm 1858 đến trước năm 1930, hàng trăm cuộc khởi nghĩa, phong trào chống Pháp đã nổ ra theo nhiều khuynh hướng khác nhau, như khởi nghĩa của Trương Công Định, Thủ Khoa Huân, phong trào Cần Vương, phong trào Đông Du, Đông Kinh nghĩa thục, Duy Tân; các cuộc khởi nghĩa do Phan Đình Phùng, Hoàng Hoa Thám, Nguyễn Thái Học... lãnh đạo. Các cuộc khởi nghĩa, phong trào đấu tranh đó vô cùng anh dũng, nhưng đã bị thực dân Pháp đàn áp tàn bạo và đều thất bại.
