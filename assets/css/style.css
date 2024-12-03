@@ -323,7 +323,6 @@ table td .accordion-header::before {
 table {
     border-spacing: 12px;
     border-collapse: separate;
-    margin-bottom: 12px;
 }
 
 table tr {
