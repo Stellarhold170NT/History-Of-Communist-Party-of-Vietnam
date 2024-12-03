@@ -13,6 +13,10 @@
                     margin-left: 18%;
                     margin-right: 18%;
                 }
+
+                .header .search-box {
+                    display: none;
+                }
             }
 
             @media screen and (max-width: 1000px) {
@@ -75,11 +79,52 @@
                 }
             }
         </style>
+
+        <style>
+            .hidden {
+                opacity: 0;
+                transition: opacity 0.2s ease;
+            }
+
+            .header .search-box {
+                position: absolute;
+
+                top: 50%;
+                right: 240px;
+                transform: translateY(-50%);
+            }
+
+            .content-container .search-box:nth-child(2) {
+                z-index: 1;
+                position: relative;
+                /* top: 80px;
+                left: 50%; */
+                /* transform: translateX(-50%); */
+                margin-top: 48px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+
+            .nav-bar .search-box {
+                position: relative;
+                margin-top: 0;
+                margin-left: auto;
+                width: fit-content;
+
+                transition: opacity 0.2s ease;
+            }
+        </style>
     </head>
     <body>
         <div class="main-content">
             <div class="body">
                 <div class="header">
+                    <div class="search-box">
+                        <div class="box">
+                            <input type="text" placeholder="Nhập mốc lịch sử" />
+                            <img src="./assets/img/search-icon.svg" alt="" />
+                        </div>
+                    </div>
                     <div class="mask"></div>
                     <img
                         class="illustration"
@@ -117,6 +162,25 @@
                     <div class="nav-bar">
                         <img src="./assets/img/ĐCSVN.svg" alt="" />
                         <span>Lịch sử Đảng Cộng Sản Việt Nam</span>
+                        <div class="search-box hidden">
+                            <div class="box">
+                                <input
+                                    type="text"
+                                    placeholder="Nhập mốc lịch sử"
+                                />
+                                <img
+                                    src="./assets/img/search-icon.svg"
+                                    alt=""
+                                />
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="search-box">
+                        <div class="box">
+                            <input type="text" placeholder="Nhập mốc lịch sử" />
+                            <img src="./assets/img/search-icon.svg" alt="" />
+                        </div>
                     </div>
 
                     <div class="container">
@@ -415,6 +479,26 @@
             }
         </script> -->
 
-        <script></script>
+        <script>
+            document.addEventListener("DOMContentLoaded", function () {
+                const searchBox = document.querySelector(
+                    ".content-container .search-box:nth-child(2)"
+                );
+                const navBarSearchBox = document.querySelector(
+                    ".nav-bar .search-box"
+                );
+
+                window.addEventListener("scroll", function () {
+                    const searchBoxPosition = searchBox.getBoundingClientRect();
+
+                    // Kiểm tra nếu search-box khuất khỏi màn hình
+                    if (searchBoxPosition.top < 0) {
+                        navBarSearchBox.classList.remove("hidden"); // Hiển thị search-box trong nav-bar
+                    } else {
+                        navBarSearchBox.classList.add("hidden"); // Ẩn search-box trong nav-bar
+                    }
+                });
+            });
+        </script>
     </body>
 </html>

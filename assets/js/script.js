@@ -331,6 +331,51 @@ function addAnimation() {
         });
     });
 
+    const searchInput = document.querySelectorAll(".search-box input");
+    searchInput.forEach((input) => {
+        input.addEventListener("keydown", function (event) {
+            if (event.key == "Enter") {
+                var time = input.value;
+                console.log("TIME = " + time);
+                const timelines = document.querySelectorAll(".timeline");
+                var flag = false;
+                timelines.forEach((tl) => {
+                    if (flag == true) return;
+                    if (tl.innerHTML.includes(time)) {
+                        flag = true;
+
+                        const level2 = tl.closest(".accordion");
+                        const level1 = level2.parentElement.parentElement;
+
+                        console.log(level2);
+                        console.log(level1);
+                        const fatherheader =
+                            level1.querySelector(".accordion-header");
+                        const fathercontent = fatherheader.nextElementSibling;
+                        fathercontent.style.maxHeight =
+                            fathercontent.scrollHeight + "px";
+                        fathercontent.classList.add("open");
+                        adjustParentHeight(fatherheader.closest(".accordion")); // Cập nhật chiều cao cha
+
+                        const header =
+                            level2.querySelector(".accordion-header");
+                        const content = header.nextElementSibling;
+                        content.style.maxHeight = content.scrollHeight + "px";
+                        content.classList.add("open");
+                        adjustParentHeight(header.closest(".accordion"));
+
+                        setTimeout(function () {
+                            tl.scrollIntoView({
+                                behavior: "smooth",
+                                block: "center",
+                            });
+                        }, 350);
+                    }
+                });
+            }
+        });
+    });
+
     // Adjust row height
     document.querySelectorAll("tr").forEach((row) => {
         row.dataset.base_height = row.offsetHeight;

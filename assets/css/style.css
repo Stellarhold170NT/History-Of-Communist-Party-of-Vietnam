@@ -198,7 +198,7 @@ span {
 
 .content-container .container {
     margin: 0 100px;
-    margin-top: 140px;
+    margin-top: calc(140px - 48px);
 }
 
 .content-container .content {
@@ -413,4 +413,42 @@ table .timeline-desc {
 
 .accordion-content .desc:not(:first-child) {
     margin-top: 12px;
+}
+
+/* Search-box */
+.search-box {
+    z-index: 20;
+    width: fit-content;
+
+    /* background-color: var(--background-color); */
+}
+
+.search-box input {
+    font-family: "OpenSans";
+    width: 340px;
+    height: 48px;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    padding: 0 12px;
+
+    background-color: var(--background-color);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px,
+        rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+}
+.search-box .box {
+    position: relative;
+    width: fit-content;
+}
+
+.search-box img {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 12px;
+}
+
+.search-box img {
+    height: 24px;
 }
