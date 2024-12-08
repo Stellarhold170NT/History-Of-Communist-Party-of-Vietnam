@@ -52,6 +52,7 @@
         [list]
             _: 10/1930
             * Luận cương chính trị tháng 10/1930
+            + 10-1930 Ban Chấp hành Trung ương họp Hội nghị lần thứ nhất tại Hương Cảng (Trung Quốc) do Trần Phú chủ trì đã quyết định đổi tên Đảng Cộng sản Việt Nam thành Đảng Cộng sản Đông Dương
             + Đường lối chiến lược: Cách mạng tư sản dân quyền, tiếp tục phát triển bỏ qua thời kì TBCN tiến lên CNXH
             + Nhiệm vụ: Đánh đổ phong kiến, đánh đổ đế quốc, hai nhiệm vụ có quan hệ khăng khít với nhau
             + Lực lượng: Công nhân, nông dân
@@ -76,6 +77,30 @@
             + + Lực lượng cách MẠNG
             + - Cương lĩnh: công nhân, nông dân, tiểu tư sản, tiểu địa chủ
             + - Luận cương: chỉ bao gồm công nhân và nông dân
+
+            _: 1930-1931
+            * Phong trào cách mạng 1930-1931
+            + Nguyên nhân của phong trào 1930-1931
+            + + Thứ nhất, sau khi cuộc khởi nghĩa Yên Bái của dân ta kết thúc, thực dân Pháp đã tiến hành "khủng bố trắng" cùng với những chính sách dã man với người dân yêu nước
+            + + Thứ hai, Đảng cộng sản Việt Nam vừa được thành lập là nguyên nhân chính và cơ bản nhất, quyết định đến làn sóng cách mạng 1930-1931
+            + * Ý nghĩa
+            + + Ý nghĩa quan trọng nhất của phong trào cách mạng 30-31 là đã chứng minh trong thực tế khả năng lãnh đạo của chính đảng vô sản
+            + + Phong trào 1930-1931, mà đỉnh cao là Xô Viết Nghệ Tĩnh là sự kiện mang ý nghĩa lịch sử trọng đại trong quá trình đấu tranh cách mạng của nhân dân Việt Nam vì đã giải quyết được những vấn đề cơ bản của một cuộc cách mạng xã hội đó chính là giành chính quyền và xây dựng chính quyền cách mạng của nhân dân. Xô viết Nghệ - Tĩnh đã trở thành nhà nước của dân, do dân, vì dân đầu tiên của nước ta
+            + + Đặc biệt, phong trào 30-31 cũng là cuộc tập dượt đầu tiên của toàn Đảng, toàn dân ta để chuẩn bị cho sự thắng lại vang dội của cách mạng tháng Tám sau ngày
+            + * Hạn chế
+            + + Chưa thành lập được chính quyền hoàn chỉnh
+            + + Vấn đề ruộng đất của người dân chưa được giải quyết triệt để 
+            + * Bài học kinh nghiệm
+            + + Phong trào cách mạng 30-31 khẳng định vai trò và ý nghĩa to lớn của khối liên mình công nông
+            + + Bạo lực cách mạng là sức mạnh to lớn giúp nhân dân giành lại chính quyền
+            + + Bài học về xây dựng chính quyền nhân dân, điển hình là việc xây dựng chính quyền theo kiểu Xô viết ở Nga, đã được hiện thực hóa qua các phong trào đấu tranh giành được thắng lợi ở Nghệ An và Hà Tĩnh
+            + + Bài học về xây dựng mặt trận dân tộc thống nhất: Phong trào cách mạng 30-31 chưa xây dựng được điều này
+
+            _: 1931-1935
+            * Giai đoạn đấu tranh cực khổ, khôi phục hệ thống tổ chức Đảng và phong trào cách mạng
+            + Đứng trước cao trào cách mạng của quần chúng, đế quốc Pháp và tay sai đã cấu kết với bọn phản động thẳng tay khủng bố hòng dập tắt phong trào cách mạng nước ta và tiêu diệt Đảng Cộng sản Đông Dương
+            + Hàng nghìn chiến sĩ cộng sản, hàng vạn người yêu nước bị bắt, bị giết hoặc bị tù đày. Các cơ quan lãnh đạo của Đảng ở Trung ương và địa phương lần lượt bị địch phá vỡ. Toàn bộ Ban Chấp hành Trung ương bị bắt, "không còn lại một ủy viên Trung ương nào"
+        
     ## 2. Đảng lãnh đạo nhân dân đấu tranh bảo vệ chính quyền cách mạng và tiến hành thắng lợi cuộc kháng chiến chống thực dân Pháp xâm lược (1945 - 1954)
     
     ## 3. Đảng lãnh đạo nhân dân ta tiến hành đồng thời hai nhiệm vụ chiến lược (1954 - 1975)
