@@ -47,7 +47,35 @@
 
 # II. NHỮNG THÀNH TỰU VẺ VANG CỦA CÁCH MẠNG VIỆT NAM DƯỚI SỰ LÃNH ĐẠO CỦA ĐẢNG
     ## 1. Đảng lãnh đạo và tổ chức các cuộc đấu tranh cách mạng, khởi nghĩa giành chính quyền - Cách mạng Tháng Tám 1945
-        
+        [desc]
+        Qua 15 năm đầu tiên lãnh đạo cách mạng (1930-1945), trải qua các cuộc đấu tranh gian khổ hy sinh, với ba cao trào cách mạng lớn (1930-1931, 1936-1939, 1939-1945), khi thời cơ đến Đảng đã lãnh đạo cuộc Tổng khởi nghĩa Tháng Tám năm 1945 thành công. Nhân dân Việt Nam đã đập tan xiềng xích nô lệ của chế độ thực dân và lật nhào chế độ phong kiến tay sai thối nát
+        [list]
+            _: 10/1930
+            * Luận cương chính trị tháng 10/1930
+            + Đường lối chiến lược: Cách mạng tư sản dân quyền, tiếp tục phát triển bỏ qua thời kì TBCN tiến lên CNXH
+            + Nhiệm vụ: Đánh đổ phong kiến, đánh đổ đế quốc, hai nhiệm vụ có quan hệ khăng khít với nhau
+            + Lực lượng: Công nhân, nông dân
+            + Lãnh đạo là giai cấp vô sản với đội tiền phong là Đảng Cộng Sản
+            
+            + * Hạn chế
+            + + Không vạch rõ mâu thuẫn chủ yếu của xã hội Việt Nam thuộc địa là mâu thuẫn giữa dân tộc Việt Nam bị nô dịch với đế quốc thực dân Pháp xâm lược và tay sai của chúng, do đó không nhấn mạnh nhiệm vụ giải phóng dân tộc, mà nặng về đấu tranh giai cấp, về cách mạng ruộng đất
+            + + Không đề ra được một chiến lược liên minh dân tộc và giai cấp rộng rãi trong cuộc đấu tranh chống đế quốc xâm lược và tay sai
+            + + Luận cương chưa đánh giá đúng mức vai trò cách mạng của giai cấp tiểu tư sản, phủ nhận mặt tích cực của tư sản dân tộc, cường điệu mặt hạn chế của họ, chưa thấy được khả năng phân hóa và lôi kéo một bộ phận địa chủ vừa và nhỏ trong cách mạng giải phóng dân tộc
+            
+            + * Nguyên Nhân
+            + + Do hiểu biết không đầy đủ về tình hình đặc điểm của xã hội
+            + + Đồng thời chịu ảnh hưởng trực tiếp của khuynh hướng "tả" của Quốc tế Cộng sản
+            
+            + * So sánh sự khác nhau giữa cương lĩnh chính trị đầu tiên với luận cương tháng 10/1930
+            + + Về nội dung cách mạng tư sản dân quyền
+            + - Cương lĩnh: Chỉ thực hiện nhiệm vụ chống đế Quốc
+            + - Luận cương: bao gồm cả nhiệm vụ chống đế quốc và phong kiến
+            + + Mối quan hệ giữa nhiệm vụ dân tộc dân chủ
+            + - Cương lĩnh: Đánh đổ đế quốc, phong kiến, tư sản phản cách mạng (nhiệm vụ dân tộc được nhấn mạnh)
+            + - Luận cương: Đánh đổ phong kiến và đế quốc có quan hệ khăng khít với nhau (nhiệm vụ chống phong kiến được nhấn mạnh)
+            + + Lực lượng cách MẠNG
+            + - Cương lĩnh: công nhân, nông dân, tiểu tư sản, tiểu địa chủ
+            + - Luận cương: chỉ bao gồm công nhân và nông dân
     ## 2. Đảng lãnh đạo nhân dân đấu tranh bảo vệ chính quyền cách mạng và tiến hành thắng lợi cuộc kháng chiến chống thực dân Pháp xâm lược (1945 - 1954)
     
     ## 3. Đảng lãnh đạo nhân dân ta tiến hành đồng thời hai nhiệm vụ chiến lược (1954 - 1975)
