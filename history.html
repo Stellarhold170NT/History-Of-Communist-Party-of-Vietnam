@@ -382,18 +382,6 @@
         <script src="./assets/js/chart.js"></script>
 
         <script>
-            const container = document.querySelector(".chart-history .chart");
-            const wrapper = document.querySelector(".chart-history");
-
-            // Lấy kích thước thực sau khi scale
-            const scaledHeight = container.offsetHeight * 0.8;
-            console.log("WRAPPER");
-            console.log(wrapper);
-            // Cập nhật kích thước của wrapper
-            wrapper.style.height = `${scaledHeight}px`;
-        </script>
-
-        <script>
             document.addEventListener("DOMContentLoaded", function () {
                 const searchBox = document.querySelector(
                     ".content-container .search-box:nth-child(2)"
