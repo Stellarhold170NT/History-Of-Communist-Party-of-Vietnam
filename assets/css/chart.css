@@ -1,0 +1,153 @@
+* {
+    --base-margin-top: 320px; /* 150 - 3*/
+}
+
+.chart-history {
+    width: 100%;
+    height: 1000px;
+    margin-bottom: 92px;
+    overflow-y: auto;
+    background-color: rgba(255, 255, 255, 0.3);
+    /* background-color: rgba(0, 0, 0, 0.1); */
+}
+
+.hidden {
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.show {
+    opacity: 1 !important;
+    transition: opacity 0.3s ease;
+}
+
+.diamond {
+    width: 14px;
+    height: 14px;
+    background-color: var(--primary-color);
+    z-index: 2;
+    position: relative;
+}
+
+.diamond-up:hover {
+    /* opacity: 0.5; */
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px,
+        rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px,
+        rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+.chart-history .chart {
+    position: relative;
+    height: 100%;
+    width: 21840px;
+    /* padding: 80px 0; */
+    transform: scale(0.8);
+    transform-origin: center left;
+    /* background-color: white; */
+}
+
+.chart-history .linetime {
+    position: absolute;
+    top: var(--base-margin-top);
+    width: 100%;
+    height: 6px;
+    background-color: black;
+}
+
+.chart-history .point {
+    position: absolute;
+    top: calc(var(--base-margin-top) - 2px);
+    /* transform: translateY(-50%); */
+    left: calc(360px - 3px);
+    width: 6px;
+    height: 10px;
+    background-color: black;
+}
+
+.chart-history .year {
+    position: absolute;
+    top: calc(var(--base-margin-top) + 16px);
+    left: calc(360px);
+    transform: translateX(-50%);
+    font-size: 16px;
+    font-weight: 700;
+    opacity: 0.5;
+}
+
+.title-chart {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 50px;
+    margin-bottom: 24px;
+    opacity: 0;
+}
+
+.chart-history .line-up {
+    position: absolute;
+    top: calc(var(--base-margin-top) - 40px);
+    left: calc(360px - 1px);
+    border-left: 2px dashed black;
+    height: 40px;
+    opacity: 0.2;
+}
+
+.chart-history .line-bottom {
+    position: absolute;
+    top: calc(var(--base-margin-top));
+    left: calc(360px - 1px);
+    border-left: 2px solid black;
+    height: 60px;
+    opacity: 0.2;
+}
+
+.chart-history .diamond-up {
+    position: absolute;
+    top: calc(var(--base-margin-top) - 40px);
+    transform: rotate(45deg);
+    left: calc(360px - 7px);
+    /* transform: translateX(-50%); */
+    background-color: black;
+}
+
+.chart-history .diamond-bottom {
+    position: absolute;
+    top: calc(var(--base-margin-top) + 60px);
+    transform: rotate(45deg);
+    left: calc(360px - 7px);
+    /* transform: translateX(-50%); */
+}
+
+.chart-history .chart-time {
+    z-index: 5;
+    position: absolute;
+    top: calc(var(--base-margin-top) - 40px - 24px);
+    left: calc(360px);
+    font-size: 14px;
+    font-weight: 700;
+    transform: translateX(-50%);
+}
+
+.chart-history .chart-header {
+    position: absolute;
+    top: calc(var(--base-margin-top) + 60px + 10px);
+    left: calc(360px - 7px - 320px - 8px);
+    font-size: 14px;
+    font-weight: 700;
+    /* background-color: red; */
+    text-align: right;
+    width: 320px;
+    /* transform: translateX(-50%); */
+    transform: translateY(-50%);
+}
+
+.chart-history .time-range {
+    position: absolute;
+    top: calc(var(--base-margin-top) + 60px);
+    /* transform: translateY(-50%); */
+    left: calc(360px);
+    width: 60px;
+    height: 16px;
+    background-color: var(--primary-color);
+    opacity: 0.5;
+}

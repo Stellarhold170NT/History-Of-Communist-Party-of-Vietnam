@@ -6,6 +6,8 @@
         <link rel="icon" href="./assets/img/logo.svg" />
         <link rel="stylesheet" href="./assets/css/reset.css" />
         <link rel="stylesheet" href="./assets/css/style.css" />
+        <link rel="stylesheet" href="./assets/css/chart.css" />
+        <link rel="stylesheet" href="./assets/css/loader.css" />
         <title>Timestamp LSĐ Việt Nam</title>
         <style>
             @media screen and (max-width: 1300px) {
@@ -187,6 +189,25 @@
                     </div>
 
                     <div class="container">
+                        <div class="loader"></div>
+
+                        <div class="chart-history">
+                            <div class="chart">
+                                <div class="linetime"></div>
+                                <div class="point"></div>
+                                <div class="year">1850</div>
+                                <div class="chart-time">1858</div>
+                                <div class="chart-header">
+                                    Từ năm 1858, thực dân Pháp bắt đầu xâm lược
+                                    Việt Nam
+                                </div>
+                                <div class="diamond diamond-up"></div>
+                                <div class="line-up"></div>
+                                <div class="line-bottom"></div>
+                                <div class="diamond diamond-bottom"></div>
+                                <div class="time-range"></div>
+                            </div>
+                        </div>
                         <div class="content" id="markdown-content">
                             <div class="accordion">
                                 <div class="accordion-header">
@@ -358,129 +379,19 @@
         </div>
         <script src="./assets/js/jquery3.6.0.js"></script>
         <script src="./assets/js/script.js"></script>
+        <script src="./assets/js/chart.js"></script>
 
-        <!-- <script>
-            const getStartedButton = document.querySelector(".get-started");
-            const contentContainer =
-                document.querySelector(".content-container");
-            getStartedButton.addEventListener("click", () => {
-                contentContainer.scrollIntoView({
-                    behavior: "smooth",
-                    block: "start",
-                });
-            });
+        <script>
+            const container = document.querySelector(".chart-history .chart");
+            const wrapper = document.querySelector(".chart-history");
 
-            // Chọn tất cả các tiêu đề accordion
-            const headers = document.querySelectorAll(".accordion-header");
-
-            headers.forEach((header) => {
-                header.addEventListener("click", () => {
-                    const content = header.nextElementSibling;
-                    const parentAccordion = header.closest(".accordion"); // Accordion cha
-
-                    // Nếu đang mở thì thu nhỏ
-                    console.log("MAXHEIGHT = " + content.style.maxHeight);
-                    if (
-                        content.style.maxHeight !== "0px" &&
-                        content.style.maxHeight !== ""
-                    ) {
-                        console.log("THU NHỎ");
-                        // content.style.maxHeight = 0;
-                        // content.classList.remove("open");
-
-                        parentAccordion
-                            .querySelectorAll(".accordion-content")
-                            .forEach((otherContent) => {
-                                // var table = otherContent.querySelector("table");
-                                // if (table) {
-                                otherContent.style.maxHeight = 0;
-                                otherContent.classList.remove("open");
-                                // }
-                            });
-
-                        setTimeout(() => {
-                            const table =
-                                parentAccordion.querySelector("table");
-                            if (table) {
-                                table.querySelectorAll("tr").forEach((row) => {
-                                    adjustTdHeight(
-                                        row,
-                                        row.dataset.base_height
-                                    );
-                                });
-                            }
-                        }, 500);
-
-                        adjustParentHeight(parentAccordion); // Cập nhật chiều cao cha
-                    } else {
-                        console.log("MỞ RỘNG");
-                        // Thu nhỏ tất cả nội dung trong accordion cha
-                        // parentAccordion
-                        //     .querySelectorAll(".accordion-content")
-                        //     .forEach((otherContent) => {
-                        //         otherContent.style.maxHeight = null;
-                        //         otherContent.classList.remove("open");
-                        //     });
-
-                        // Mở rộng nội dung được chọn
-                        content.style.maxHeight = content.scrollHeight + "px";
-                        content.classList.add("open");
-                        adjustParentHeight(parentAccordion); // Cập nhật chiều cao cha
-                    }
-                });
-            });
-
-            function adjustParentHeight(accordion) {
-                let totalHeight = 0;
-
-                // Tính tổng chiều cao của tất cả các accordion-content đang mở
-                accordion
-                    .querySelectorAll(".accordion-content.open")
-                    .forEach((openContent) => {
-                        totalHeight += openContent.scrollHeight;
-                    });
-
-                console.log(totalHeight + "px");
-                const content = accordion.querySelector(".accordion-content");
-                console.log("CONTENT " + content);
-                content.style.maxHeight = totalHeight + "px";
-                const parentContent = accordion.closest(".accordion-content");
-                const tableRow = accordion.closest("tr");
-                if (parentContent) {
-                    adjustParentHeight(parentContent.closest(".accordion"));
-                }
-
-                if (tableRow) {
-                    // console.log("H2" + accordion.offsetHeight);
-                    // adjustTdHeight(tableRow, accordion.offsetHeight);
-                    requestAnimationFrame(function () {
-                        var accordionHeight = Math.min(
-                            tableRow.offsetHeight,
-                            accordion.offsetHeight
-                        ); // Lấy chiều cao đúng của accordion
-
-                        if (tableRow) {
-                            adjustTdHeight(tableRow, accordionHeight);
-                        }
-                    });
-                }
-            }
-
-            document.querySelectorAll("tr").forEach((row) => {
-                row.dataset.base_height = row.offsetHeight;
-                adjustTdHeight(row, row.offsetHeight);
-            });
-
-            function adjustTdHeight(row, height) {
-                var tds = row.querySelectorAll("td");
-                var trHeight = Math.max(height, 40); // Lấy chiều cao của tr
-
-                // Đặt chiều cao của mỗi td bằng chiều cao của tr
-                tds.forEach(function (td) {
-                    td.style.height = trHeight + "px";
-                });
-            }
-        </script> -->
+            // Lấy kích thước thực sau khi scale
+            const scaledHeight = container.offsetHeight * 0.8;
+            console.log("WRAPPER");
+            console.log(wrapper);
+            // Cập nhật kích thước của wrapper
+            wrapper.style.height = `${scaledHeight}px`;
+        </script>
 
         <script>
             document.addEventListener("DOMContentLoaded", function () {

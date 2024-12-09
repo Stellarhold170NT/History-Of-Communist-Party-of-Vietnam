@@ -178,7 +178,7 @@ span {
 }
 
 .content-container .nav-bar {
-    z-index: 4;
+    z-index: 7;
     position: sticky;
     display: flex;
     align-items: center;
