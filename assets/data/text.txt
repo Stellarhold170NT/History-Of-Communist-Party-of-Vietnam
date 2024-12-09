@@ -145,17 +145,17 @@
             * Hội nghị 24 BCH TW Đảng khoá III
             + Chủ trương: Hoàn thành thống nhất nước nhà , đưa cả nước tiến nhanh, tiến mạnh, tiến vững chắc lên chủ nghĩa xã hội. 
             + Cần xúc tiến việc thống nhất nước nhà một cách tích cực khẩn trương để nhanh chóng phát huy sức mạnh mới của đất nước, phá tan âm mưu chia rẽ của các thế lực thù địch
-            _: 15-21/11/1975
-            * Hội nghị hiệp thương chính trị
+            _: 11/1975
+            * Hội nghị hiệp thương chính trị 15-21/11/1975
             + Họp tại Sài Gòn
-            +  Nhất trí về chủ trương, biện pháp thống nhất đất nước về mặt nhà nước
+            + Nhất trí về chủ trương, biện pháp thống nhất đất nước về mặt nhà nước
             _: 25/4/1976
             * Tổng tuyển cử bầu Quốc hội chung (khoá VI)
             + Tiến hành trong cả nước
             + 23 triệu cử tri đi bỏ phiếu
             + Bầu ra 492 đại biểu
-            _: 24/6 - 3/7/1976 
-            * Kỳ họp thứ nhất Quốc hội khoá VI
+            _: 6/1976 
+            * Kỳ họp thứ nhất Quốc hội khoá VI 24/6 - 3/7/1976 
             + Thông qua chính sách đối nội, đối ngoại của nhà nước VN thống nhất
             + Đặt tên nước: "Cộng hoà Xã hội chủ nghĩa Việt Nam"
             + Quốc huy mang dòng chữ: "Cộng hoà Xã hội chủ nghĩa Việt Nam"
@@ -213,15 +213,16 @@
             * Hiến pháp mới được thông qua
             + Là bản Hiến pháp thứ 3 của nước VN mới
             + Bản Hiến pháp đầu tiên của thời kỳ cả nước quá độ lên CNXH
+     
+            
             _: 1/1981
-            * Chỉ thị 100-CT/TW
+            * Cải cách cơ chế quản lý sản xuất, kinh doanh và tài chính trong các xí nghiệp nhà nước
+            + * Chỉ thị 100-CT/TW
             + Khoán sản phẩm đến nhóm và người lao động trong hợp tác xã nông nghiệp
             + Thu hoạch vượt mức khoán sẽ được hưởng và tự do mua bán
-            _: 1/1981
-            * Quyết định số 25-CP
+            + * Quyết định số 25-CP
             + Quyền chủ động sản xuất kinh doanh và quyền tự chủ về tài chính của các xí nghiệp.
-            _: 1/1981
-            * Quyết định số 26-CP
+            + * Quyết định số 26-CP
             + Mở rộng trả lương khoán, lương sản phẩm
             + Vận dụng hình thức tiền thưởng trong các đơn vị sản xuất kinh doanh của Nhà nước
             _: 3/1982
