@@ -9,10 +9,16 @@
             * Từ năm 1858, thực dân Pháp bắt đầu xâm lược Việt Nam
             + Từ năm 1858, thực dân Pháp bắt đầu xâm lược Việt Nam, từng bước thiết lập chế độ thống trị tàn bạo, phản động của chủ nghĩa thực dân trên đất nước ta
             + Xã hội Việt Nam có hai mâu thuẫn cơ bản là
-	    + 1. Một là: mâu thuẫn giữa nhân dân Việt Nam chủ yếu là giai cấp nông dân với giai cấp địa chủ phong kiến (mâu thuẫn vốn có trong xã hội phong kiến)
-	    + 2. Hai là: Mâu thuẫn giữa toàn thể dân tộc Việt Nam với đế quốc Pháp xâm lược và bọn tay sai (mâu thuẫn mới xuất hiện sau khi Pháp xâm lược)
+	        + 1. Một là: mâu thuẫn giữa nhân dân Việt Nam chủ yếu là giai cấp nông dân với giai cấp địa chủ phong kiến (mâu thuẫn vốn có trong xã hội phong kiến)
+	        + 2. Hai là: Mâu thuẫn giữa toàn thể dân tộc Việt Nam với đế quốc Pháp xâm lược và bọn tay sai (mâu thuẫn mới xuất hiện sau khi Pháp xâm lược)
             + Trong đó, mâu thuẫn vừa cơ bản vừa chủ yếu nhất trong xã hội Việt Nam dưới thời Thực dân Pháp thống trị là mâu thuẫn giữa Toàn thể dân tộc Việt Nam với Thực dân Pháp
             > "Nếu giặc đến thì đánh, chỉ có đánh mới giữ được nước." (Nguyễn Tri Phương)
+            
+            
+    ## 2. Phong trào đấu tranh của nhân dân ta trước khi Đảng ra đời
+        [desc]
+        Trong quá trình đấu tranh dựng nước và giữ nước lâu dài, gian khổ, dân tộc ta sớm hình thành truyền thống yêu nước nồng nàn, tinh thần đấu tranh anh dũng, bất khuất. Vì vậy, ngay từ khi thực dân Pháp xâm lược, nhân dân ta liên tiếp đứng lên chống lại chúng. Từ năm 1858 đến trước năm 1930, hàng trăm cuộc khởi nghĩa, phong trào chống Pháp đã nổ ra theo nhiều khuynh hướng khác nhau, như khởi nghĩa của Trương Công Định, Thủ Khoa Huân, phong trào Cần Vương, phong trào Đông Du, Đông Kinh nghĩa thục, Duy Tân; các cuộc khởi nghĩa do Phan Đình Phùng, Hoàng Hoa Thám, Nguyễn Thái Học... lãnh đạo. Các cuộc khởi nghĩa, phong trào đấu tranh đó vô cùng anh dũng, nhưng đã bị thực dân Pháp đàn áp tàn bạo và đều thất bại.
+        [list]    
             _: 1885-1896
             * Phong trào Cần Vương
             + 1885: Phong trào Cần Vương bùng nổ sau chiếu Cần Vương của vua Hàm Nghi, kêu gọi nhân dân chống Pháp giành độc lập.
@@ -38,13 +44,21 @@
             + Bài học
             + + Cuộc khởi nghĩa cho thấy sự hạn chế của khuynh hướng dân chủ tư sản: không có lực lượng quần chúng đông đảo, thiếu tổ chức mạnh mẽ và không phù hợp với bối cảnh xã hội thuộc địa nửa phong kiến.
             + + Cần một tổ chức cách mạng với hệ tư tưởng tiên tiến và gắn bó với giai cấp công nhân, nông dân để thực hiện thành công nhiệm vụ giải phóng dân tộc.
-    ## 2. Phong trào đấu tranh của nhân dân ta trước khi Đảng ra đời
-        [desc]
-        Trong quá trình đấu tranh dựng nước và giữ nước lâu dài, gian khổ, dân tộc ta sớm hình thành truyền thống yêu nước nồng nàn, tinh thần đấu tranh anh dũng, bất khuất. Vì vậy, ngay từ khi thực dân Pháp xâm lược, nhân dân ta liên tiếp đứng lên chống lại chúng. Từ năm 1858 đến trước năm 1930, hàng trăm cuộc khởi nghĩa, phong trào chống Pháp đã nổ ra theo nhiều khuynh hướng khác nhau, như khởi nghĩa của Trương Công Định, Thủ Khoa Huân, phong trào Cần Vương, phong trào Đông Du, Đông Kinh nghĩa thục, Duy Tân; các cuộc khởi nghĩa do Phan Đình Phùng, Hoàng Hoa Thám, Nguyễn Thái Học... lãnh đạo. Các cuộc khởi nghĩa, phong trào đấu tranh đó vô cùng anh dũng, nhưng đã bị thực dân Pháp đàn áp tàn bạo và đều thất bại.
     ## 3. Lãnh tụ Nguyễn Ái Quốc tìm đường cứu nước và sự ra đời của Đảng Cộng sản Việt Nam
         [desc]
         Giữa lúc cách mạng Việt Nam đang lâm vào cuộc khủng hoảng về đường lối cứu nước, ngày 5-6-1911, người thanh niên yêu nước Nguyễn Tất Thành (Nguyễn Ái Quốc, Hồ Chí Minh) ra nước ngoài, bắt đầu đi tìm con đường cứu nước
-
+        [list]
+            _: 7/1920
+            * Nguyễn Ái Quốc đọc Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và thuộc địa của Lênin
+            + Bản Luận cương đó đã đáp ứng đúng nguyện vọng tha thiết mà Nguyễn Ái Quốc đang ấp ủ: độc lập cho Tổ quốc, tự do cho đồng bào
+            + Sau này Người viết: "Luận cương của Lênin làm cho tôi rất cảm động, phấn khởi, sáng tỏ, tin tưởng biết bao! Tôi vui mừng đến phát khóc lên. Ngồi một mình trong buồng mà tôi nói to lên như đang nói trước quần chúng đông đảo: "Hỡi đồng bào bị đọa đầy đau khổ! Đây là cái cần thiết cho chúng ta, đây là con đường giải phóng chúng ta!"
+            _: 6/1925
+            * Hội Việt Nam Cách Mạng Thanh Niên ra đời
+            + Tháng 6-1925, Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng thanh niên tại Quảng Châu (Trung Quốc)
+            + Tiền thân Hội Việt Nam Cách Mạng Thanh niên là Tâm tâm xã
+            + Hạt nhân: Cộng Sản Đoàn
+            + Cơ quan tuyên truyền: báo Thanh Niên. Báo Thanh niên đánh dấu sự ra đời của báo chí cách mạng Việt Nam
+            + Ý nghĩa:  Tổ chức quan trọng nhất, được cọi như là bước chuẩn bị trực tiếp cho việc thành lập Đảng về cơ cấu tổ chức, là tổ chức quá độ trung gian trước khi thành lập Đảng cộng sản Việt Nam là "Hội Việt Nam cách mạng thanh niên"
 # II. NHỮNG THÀNH TỰU VẺ VANG CỦA CÁCH MẠNG VIỆT NAM DƯỚI SỰ LÃNH ĐẠO CỦA ĐẢNG
     ## 1. Đảng lãnh đạo và tổ chức các cuộc đấu tranh cách mạng, khởi nghĩa giành chính quyền - Cách mạng Tháng Tám 1945
         [desc]
@@ -166,6 +180,119 @@
             * Tác phẩm Tự chỉ trích của Nguyễn Văn Cừ
             
             + Tác phẩm "Tự chỉ trích" của Nguyễn Văn Cừ phê phán hai sai lầm chính trong Đảng: xu hướng tả khuynh làm Đảng cô lập, xa rời quần chúng và xu hướng hữu khuynh, thỏa hiệp, che lấp tuyên truyền Chủ nghĩa Mác-Lênin. Ông kêu gọi phê bình, tự phê bình để khắc phục sai lầm, tăng cường đoàn kết và giữ vững nguyên tắc cách mạng.
+
+            _: 1939-1945
+            * Đảng lãnh đạo giải phóng dân tộc, khởi nghĩa giành chính quyền
+            + Bối cảnh lịch sử
+            + + Chiến tranh thế giới thứ hai bùng nổ (1939), Pháp lao vào vòng chiến. Mặt trận nhân dân Pháp tan vỡ
+            + + Ở Việt Nam, Pháp thủ tiêu tự do dân chủ, thực hiện chính sách kinh tế chỉ huy và tăng cường đàn áp
+            + + Nhật vào Đông Dương (1940), Pháp cấu kết với Nhật, áp đặt cảnh "một cổ hai tròng" lên nhân dân Đông Dương
+
+            + Nội dung chủ chương chiến lược mới
+            + + Kẻ thù: Đế quốc Pháp - Nhật
+            + + Nhiệm vụ: Giải phóng dân tộc là nhiệm vụ hàng đầu, duy nhất
+            + + Mặt trận: Thành lập mặt trận Việt Minh, tập hợp mọi lực lượng yêu nước
+            + + Hình thức đấu tranh: Bí mật, tập trung chuẩn bị khởi nghĩa vũ trang
+            _: 11/1939
+            * Hội nghị lần thứ 6 Ban Chấp hành Trung ương Đảng
+            + Hội nghị nhận định: trong điều kiện lịch sử mới, giải phóng dân tộc là nhiệm vụ hàng đầu và cấp bách nhất của cách mạng Đông Dương
+            + Khẩu hiệu "cách mạng ruộng đất" phải tạm gác lại và thay bằng các khẩu hiệu chống địa tô cao, chống cho vay lãi nặng, tịch thu ruộng đất của bọn thực dân đế quốc và bọn địa chủ phản bội quyền lợi dân tộc đem chia cho dân cày nghèo
+            + Thành lập Mặt trận dân tộc thống nhất phản đế Đông Dương
+            > "Bước đường sinh tồn của các dân tộc Đông Dương không còn có con đường nào khác hơn là con đường đánh đổ đế quốc Pháp, chống tất cả ách ngoại xâm, vô luận da trắng hay da vàng để giành lấy giải phóng độc lập"
+
+            _: 11/1940
+            * Hội nghị lần thứ bảy Ban Chấp hành Trung ương Đảng
+            + Hội nghị khẳng định nhiệm vụ trước mắt của Đảng là chuẩn bị lãnh đạo cuộc "võ trang bạo động giành lấy quyền tự do độc lập"
+
+            _: 1940-1941
+            * Những tiếng súng báo hiệu cho cuộc khởi nghĩa toàn cuốc
+            + Trong khoảng thời gian này, các cuộc khởi nghĩa Bắc Sơn (27/9/1940), Nam Kỳ(23/11/1940) và binh biến Đô Lương (13/1/1941) là những đòn tiến công trực diện vào nền thống trị của thực dân pháp
+            + Đó là "những tiếng súng báo hiệu cho cuộc khởi nghĩa toàn quốc, là bước đầu tranh đấu bằng võ lực của các dân tộc ở một nước Đông Dương"
+
+            _: 5/1941
+            * Hội nghị lần thứ tám Ban Chấp hành Trung ương
+            + Với tư cách là đại diện cho Quốc tế Cộng sản, Nguyễn Ái Quốc chủ trì Hội nghị lần thứ tám Ban Chấp hành Trung ương Đảng tại Pác Bó (Cao Bằng)
+            + Tổng bí thư: Trường chính
+            + Nội dung
+            + + Nhấn mạnh mâu thuẫn chủ yếu đòi hỏi phải giải quyết cấp bách mâu thuẫn giữa dân tộc Việt Nam với đế quốc Pháp-Nhật
+            + + Khẳng định dứt khoát nhiệm vụ duy nhất là nhiệm vụ giải phóng dân tộc. Cuộc cách mạng Đông Dương hiện tại không phải là cuộc cách mạng tư sản dân quyền, giải quyết hai vấn đề: phản đế và điền địa nữa, mà là cuộc cách mạng chỉ phải giải quyết một vấn đề cần kíp "dân tộc giải phóng"
+            + + Chủ trương thành lập Mặt trận Việt Minh. Các tổ chức quần chúng trong Mặt trận Việt Minh đều mang tên "cứu quốc"
+            + + Chủ trương sau khi cách mạng thành công sẽ thành lập nước Việt Nam dân chủ cộng hòa theo tinh thần dân chủ
+            + + Hội nghị xác định chuẩn bị khởi nghĩa vũ trang là nhiệm vụ trung tâm của Đảng và nhân dân
+            + Ý nghĩa
+            + + Hội nghị lần thứ tám Ban Chấp hành Trung ương Đảng đã hoàn chỉnh chủ trương chiến lược được đề ra từ Hội nghị 11/1939
+            + + Khắc phục triệt để những hạn chế của Luận cương chính trị tháng 11-1930, khẳng định lại đường lối cách mạng giải phóng dân tộc đúng đắn trong Cương lĩnh chính trị đầu tiên của Đảng và lý luận cách mạng giải phóng dân tộc của Nguyễn Ái Quốc
+            + + Là ngọn cờ dẫn đường cho toàn dân Việt Nam đẩy mạnh công cuộc chuẩn bị lực lượng, tiến lên trong sự nghiệp đánh Pháp, đuổi Nhật, giành độc lập tự do
+            > "Trong lúc này nếu không giải quyết được vấn đề dân tộc giải phóng, nếu không đòi được độc lập tự do cho toàn thể dân tộc, thì chẳng những toàn thể quốc gia dân tộc còn chịu mãi kiếp ngựa trâu, mà quyền lợi của bộ phận, giai cấp, đến vạn năm cũng không đòi lại được. Đó là nhiệm vụ của Đảng ta trong vấn đề dân tộc"
+
+            _: 1943
+            * Đảng công bố bản "Đề cương văn hóa Việt Nam"
+            + Đảng xác định văn hóa cũng là một trận địa cách mạng, chủ trương xây dựng một nền văn hóa mới theo ba nguyên tắc: dân tộc, khoa học và đại chúng
+            + + Dân tộc hóa: chống mọi ảnh hưởng nô dịch và thuộc địa, khiến cho văn hóa Việt Nam phát triển độc lập
+            + + Đại chúng hóa: chống mọi chủ trương hành động làm cho văn hóa phản lại đông đảo quần chúng hoặc xa đông đảo quần chúng
+            + + Khoa học hóa: chống lại tất cả những gì làm cho văn hóa trái khoa học, phản tiến bộ
+            + Ý nghĩa: "Đề cương văn hóa Việt Nam" là văn kiện chính thức đầu tiên của Đảng về công tác văn hóa, văn nghệ, tiến tới xây dựng nền văn hóa dân tộc, nhân dân
+
+            _: 1944
+            * Hội Văn hóa Cứu quốc ra đời
+            + Dưới ánh sáng của bản Đề cương văn hóa Việt Nam, cũng như sự ra đời của Hội Văn hóa cứu quốc đã thu hút được đông đảo đội ngũ trí thức và những người hoạt động văn hóa, văn nghệ ưu tú nhất nước ta lúc bấy giờ, đưa họ đến với Mặt trận Việt Minh, đóng góp vào thắng lợi của cuộc Tổng khởi nghĩa tháng Tám năm 1945
+            + Hội Văn hóa Cứu quốc là nơi đặt nền móng xây dựng nền văn hóa cách mạng.
+
+            _: 5/1944
+            * Chỉ thị Sửa soạn khởi nghĩa
+            + Từ giữa năm 1944, cuộc chiến tranh chống phát xít sắp bước vào giai đoạn kết thúc. Căn cứ vào chủ trương của Đảng, Tổng bộ Việt Minh ra chỉ thị Sửa soạn khởi nghĩa
+            + Không khi chuẩn bị cho khởi nghĩa sôi nổi trong khu căn cứ
+
+            
+            _: 22/12/1944
+            * Đội Việt Nam tuyên truyền giải phóng quân ra đời
+            + Ngày 22/12/1944, Đội Việt Nam tuyên truyền giải phóng quân do Võ Nguyên Giáp làm chỉ huy, ra đời ở Cao Bằng ban đầu gồm 34 chiến sĩ
+            + Đội Việt Nam tuyên truyền giải phóng quân được xem là tiền thân của Quân đội nhân dân Việt Nam sau này
+
+            _: 12/3/1945
+            * Hội nghị Ban Thường vụ Trung ương Đảng tháng 3-1945
+            + Địa điểm: làng Đình Bảng (Từ Sơn, Bắc Ninh)
+            + Chỉ thị: "Nhật - Pháp bắn nhau và hành động của chúng ta"
+            + Nội dung
+            + + Thay đổi khẩu hiệu "đánh đuổi Nhật - Pháp" bằng khẩu hiệu "đánh đuổi phát xít Nhật"
+            + + Phương châm đấu tranh: phát động chiến tranh du kích, giải phóng từng vùng, mở rộng căn cứ địa
+
+            _: 15/5/1945
+            * Hội nghị quân sự cách mạng Bắc Kỳ
+            + Chủ trì: Tổng bí thư Trường Chinh
+            + Nội dung
+            + + Ngay lúc này phải tích cực phát triển chiến tranh du kích, gây dựng căn cứ địa kháng Nhật để chuẩn bị cuộc tổng khởi nghĩa cho kịp thời cơ
+            + + Chủ trương thống nhất các lực lượng vũ trang sẵn có thành Việt Nam giải phóng quân
+
+            _: 13-15/8/1945
+            * Hội nghị toàn quốc
+            + Hội nghị xác định những vấn đề quan trọng của tình hình mới
+            + + Quyết định phát động toàn dân nổi dậy tổng khởi nghĩa giành chính quyền từ tay phát xít Nhật trước khi quân Đồng minh vào Đông Dương
+            + + Khẩu hiệu: "Phản đối xâm lược! Hoàn toàn độc lập! Chính quyền nhân dân!"
+            + + Xác định ba nguyên tắc chỉ đạo khởi nghĩa: tập trung, thống nhất và kịp thời
+
+            _: 16/8/1945
+            * Đại hội quốc dân
+            + Địa điểm: Tân Trào - Tuyên Quang do Tổng bộ Việt Minh triệu tập
+            + Về dự đại hội có khoảng 60 đại biểu của các giới, các đảng phái chính trị, các đoàn thể quần chúng cứu quốc, các dân tộc, tôn giáo trong nước và đại biểu kiều bào ở nước ngoài
+            + Đại hội tán thành quyết định tổng khởi nghĩa của Đảng
+            + Thông qua 10 chính sách lớn của Việt Minh, lập Ủy ban giải phóng dân tọc Việt Nam do Hồ Chí Minh làm Chủ tịch
+            > "Giờ quyết định cho vận mệnh dân tộc đã đến. Toàn quốc đồng bào hãy đứng dậy đem sức ta mà tự giải phóng cho ta...Chúng ta không thể chậm trễ. Tiến lên! Tiến lên! Dưới lá cờ Việt Minh, đồng bào hãy dũng cảm tiến lên!"
+
+            _: 30/8/1945
+            * Vua Bảo Đại thoái vị
+            + Tại cuộc mít tinh gồm hàng vạn người tham gia ở Huế, vua Bảo Đại thoái vị và giao nộp ấn, kiếm cho đại diện Chính phủ lầm thời nước Việt Nam Dân chủ Cộng Hòa
+            + Sự kiện này chính thức kết thúc chế độ phong kiến tồn tại hàng ngàn năm lịch sử
+
+            _: 2/9/1945
+            * Chủ tịch Hồ Chí Minh đọc bản Tuyên ngôn Độc lập
+            + Địa điểm: Quảng trường Ba Đình
+            + Bản tuyên ngôn nêu rõ
+            + + "Tất cả các dân tộc trên thế giới đều sinh ra bình đẳng, dân tộc nào cũng có quyền sống, quyền sung sướng và quyền tự do"
+            + + "Nước Việt Nam có quyền hưởng tự do và độc lập, và sự thật đã thành một nước tự do, độc lập. Toàn thể dân tộc Việt Nam quyết đem tất cả tinh thần và lực lượng, tính mạng và của cải để giữ vững quyền tự do, độc lập ấy"
+            + Tuyên ngôn độc lập là một văn kiện lịch sử có giá trị tư tưởng lớn và ý nghĩa thực tiễn sâu sắc. Đó là thiên anh hùng ca chiến đấu và chiến thắng, chứa chan sức mạnh và niềm tin, tràn đầy lòng tự hào và ý chí đấu tranh của nhân dân ta trong sự nghiệp giành và giữ nền độc lập, tự do và toàn vẹn lãnh thổ của Tổ quốc Việt Nam
+
+    
     ## 2. Đảng lãnh đạo nhân dân đấu tranh bảo vệ chính quyền cách mạng và tiến hành thắng lợi cuộc kháng chiến chống thực dân Pháp xâm lược (1945 - 1954)
     
     ## 3. Đảng lãnh đạo nhân dân ta tiến hành đồng thời hai nhiệm vụ chiến lược (1954 - 1975)
@@ -395,8 +522,8 @@
             * Hội nghị TW 7 khoá 7
             + Phát triển công nghiệp, công nghệ nhằm đẩy tới một bước CNH và HĐH đất nước
             + Mục tiêu lâu dài của CNXH: biến nước ta thành nước công nghiệp có CSVC KT hiện đại, cơ cấu KT hợp lý, QHSX tiến bộ, phù hợp với trình độ phát triển của sức sản xuất, mức sống vật chất và tinh thần cao, quốc phòng an ninh vững chắc, dân giàu nước mạnh, xã hội công bằng dân chủ văn minh.
-            _: 6-7/1996
-            * Đại hội đại biểu toàn quốc lần 8 của Đảng
+            _: 6/1996
+            * Đại hội đại biểu toàn quốc lần 8 của Đảng 6-7/1996
             + TBT: Đỗ Mười
             + - Đánh giá tổng quát
             + + Nước ta đã ra khỏi khủng hoảng kinh tế - xã hội, nhưng một số mặt còn chưa vững chắc.

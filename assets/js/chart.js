@@ -6,6 +6,7 @@ var gapYear = 1200;
 var gap = 120;
 var baseY = 320;
 var list = [];
+chart.style.width = 1500 * 18 + 120 * 2 + "px";
 
 setTimeout(function () {
     var loader = document.querySelector(".loader");
@@ -100,9 +101,16 @@ function createChart() {
                     var caculateX = caculateMarginLeft(timeline);
 
                     var baseX = caculateX.marginLeft;
+
                     let index = list.findIndex(
                         (item) => item.time === timeline
                     );
+
+                    if (timeline.includes("13-15/8/1945")) {
+                        baseX -= 4;
+                    } else if (timeline.includes("30/8/1945")) {
+                        baseX += 4;
+                    }
                     var found = 0; // Biến để lưu trạng thái tìm thấy
                     for (let i = index - 1; i >= 0; i--) {
                         if (
@@ -231,7 +239,6 @@ function createPoint() {
 function caculateMarginLeft(inputStr) {
     inputStr = inputStr.trim();
 
-    // Kiểm tra khoảng thời gian "1958-1963"
     if (inputStr.includes("-") && !inputStr.includes("/")) {
         let [start, end] = inputStr.split("-");
         var a = parseInt(start.trim());
@@ -244,6 +251,31 @@ function caculateMarginLeft(inputStr) {
         //     start: { day: 0, month: 0, year: parseInt(start.trim()) },
         //     end: { day: 0, month: 0, year: parseInt(end.trim()) },
         // };
+    }
+
+    if (inputStr.includes("-") && inputStr.includes("/")) {
+        let [range, month, year] = inputStr.split("/");
+        let [startDay] = range.split("-").map(Number);
+        console.log(
+            "NEW0" +
+                " " +
+                range +
+                " " +
+                " " +
+                year +
+                " " +
+                month +
+                " " +
+                startDay
+        );
+        return {
+            marginLeft:
+                (parseInt(year) - startYear) * gap +
+                (parseInt(month) * gap) / 12 +
+                Math.min(31, startDay) / (12 * gap) +
+                base,
+            range: 0,
+        };
     }
 
     // Kiểm tra dạng "a/b/c" hoặc "a/b"
