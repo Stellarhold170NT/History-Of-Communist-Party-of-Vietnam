@@ -138,6 +138,7 @@
     text-align: right;
     width: 320px;
     /* transform: translateX(-50%); */
+    line-height: 1.25;
     transform: translateY(-50%);
 }
 
