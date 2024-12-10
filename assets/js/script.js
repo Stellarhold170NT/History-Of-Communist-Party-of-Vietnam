@@ -176,12 +176,6 @@ function parseMarkdown(idx, preLevel, lines, levels) {
 
                 console.log("CONTENT = " + content);
 
-                var htmlRow = createAccordionElement(
-                    3,
-                    lines[idx].trim().substring(1),
-                    content
-                );
-
                 var htmlQuote = "";
                 var last = idx + cnt;
                 if (
@@ -192,6 +186,18 @@ function parseMarkdown(idx, preLevel, lines, levels) {
                     last += 1;
                     lineCount += 1;
                 }
+
+                content +=
+                    htmlQuote.trim() == ""
+                        ? ""
+                        : `<div class="quote">` + htmlQuote + `</div>`;
+
+                console.log("CONTENT :: " + content);
+                var htmlRow = createAccordionElement(
+                    3,
+                    lines[idx].trim().substring(1),
+                    content
+                );
 
                 htmlString += createRowElement(2, htmlRow, htmlQuote);
 

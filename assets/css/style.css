@@ -393,16 +393,19 @@ table tr td:nth-child(3) {
     vertical-align: top;
 }
 
-table td .quote {
+table tr td:nth-child(3) .quote {
     display: none;
-    width: 400px;
-    color: white;
-    background-color: #0d0d0d;
+}
+
+table td .quote {
+    width: 100%;
+    color: black;
+    background-color: #dfe0d4;
+    border-left: #0d0d0d 4px solid;
     padding: 8px 24px;
-    border-radius: 12px;
     line-height: 1.35;
-    font-size: 14px;
-    margin: auto 0;
+    font-size: 16px;
+    margin-top: 12px;
 }
 
 table .timeline-desc {
