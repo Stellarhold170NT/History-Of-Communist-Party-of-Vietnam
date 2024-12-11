@@ -2,11 +2,13 @@ var chart = document.querySelector(".chart-history .chart");
 var base = 120;
 var startYear = 1850;
 var endYear = 2030;
-var gapYear = 1200;
-var gap = 120;
+var gapYear = 2000;
+var gap = 200;
 var baseY = 320;
 var list = [];
-chart.style.width = 1500 * 18 + 120 * 2 + "px";
+var chartHeaderWidth = 280;
+var cntRow = 8;
+chart.style.width = gapYear * 18 + 120 * 2 + "px";
 
 setTimeout(function () {
     var loader = document.querySelector(".loader");
@@ -71,14 +73,19 @@ function createChart() {
                         .querySelector(".timeline-header")
                         .innerHTML.trim();
                     var caculateX = caculateMarginLeft(timeline).marginLeft;
-                    list.push({ time: timeline, pos: caculateX, level: 0 });
+                    list.push({
+                        time: timeline,
+                        pos: caculateX,
+                        level: 0,
+                        direction: "left",
+                    });
                 }
             });
         });
 
         list.sort((a, b) => a.pos - b.pos);
         for (var i = 0; i < list.length; i++) {
-            list[i].level = i % 7;
+            list[i].level = i % cntRow;
         }
 
         /* Add to Inteface */
@@ -106,24 +113,34 @@ function createChart() {
                         (item) => item.time === timeline
                     );
 
-                    if (timeline.includes("13-15/8/1945")) {
-                        baseX -= 4;
-                    } else if (timeline.includes("30/8/1945")) {
-                        baseX += 4;
-                    }
+                    // if (timeline.includes("13-15/8/1945")) {
+                    //     baseX -= 4;
+                    // } else if (
+                    //     timeline.includes("3/9/1945") ||
+                    //     timeline.includes("25/11/1945")
+                    // ) {
+                    //     baseX += 4;
+                    // }
                     var found = 0; // Biến để lưu trạng thái tìm thấy
                     for (let i = index - 1; i >= 0; i--) {
                         if (
-                            list[index].pos - list[i].pos < 320 &&
+                            ((list[index].pos - list[i].pos <=
+                                chartHeaderWidth &&
+                                list[i].direction == "left") ||
+                                (list[index].pos -
+                                    (list[i].pos + chartHeaderWidth) <=
+                                    chartHeaderWidth &&
+                                    list[i].direction == "right")) &&
                             list[index].level == list[i].level
                         ) {
-                            found = 320 + 7 * 2 + 8 * 2; // Tìm thấy một phần tử thỏa mãn
+                            list[index].direction = "right";
+                            found = chartHeaderWidth + 7 * 2 + 8 * 2; // Tìm thấy một phần tử thỏa mãn
                             break; // Thoát khỏi vòng lặp
                         }
                     }
 
-                    var heightLineUp = 40 + (index % 7) * 40;
-                    var heightLineBottom = 60 + (index % 7) * 60;
+                    var heightLineUp = 40 + (index % cntRow) * 40;
+                    var heightLineBottom = 60 + (index % cntRow) * 60;
 
                     console.log(
                         "timelinebase " +
@@ -161,6 +178,9 @@ function createChart() {
                     divDiamondBottom.style.top =
                         baseY + heightLineBottom + "px";
                     divDiamondBottom.style.left = baseX - 7 + "px";
+                    if (header.includes("Đại hội")) {
+                        divDiamondBottom.style.backgroundColor = "#f6bd72";
+                    }
 
                     var divChartTime = document.createElement("div");
                     divChartTime.innerHTML = timeline;
@@ -174,7 +194,7 @@ function createChart() {
                     divChartHeader.style.top =
                         baseY + heightLineBottom + 10 + "px";
                     divChartHeader.style.left =
-                        baseX - 320 - 7 - 8 + found + "px";
+                        baseX - chartHeaderWidth - 7 - 8 + found + "px";
                     if (found > 0) divChartHeader.style.textAlign = "left";
 
                     var divTimeRange = document.createElement("div");
@@ -182,6 +202,38 @@ function createChart() {
                     divTimeRange.style.top = baseY + heightLineBottom + "px";
                     divTimeRange.style.left = baseX + "px";
                     divTimeRange.style.width = caculateX.range + "px";
+
+                    divChartTime.addEventListener("mouseenter", () => {
+                        divChartHeader.style.color = "#dd413e";
+                    });
+
+                    divChartTime.addEventListener("mouseleave", () => {
+                        divChartHeader.style.color = "black";
+                    });
+
+                    divDiamondUp.addEventListener("mouseenter", () => {
+                        divChartHeader.style.color = "#dd413e";
+                    });
+
+                    divDiamondUp.addEventListener("mouseleave", () => {
+                        divChartHeader.style.color = "black";
+                    });
+
+                    divChartHeader.addEventListener("mouseenter", () => {
+                        divChartTime.style.color = "#dd413e";
+                    });
+
+                    divChartHeader.addEventListener("mouseleave", () => {
+                        divChartTime.style.color = "black";
+                    });
+
+                    divDiamondBottom.addEventListener("mouseenter", () => {
+                        divChartTime.style.color = "#dd413e";
+                    });
+
+                    divDiamondBottom.addEventListener("mouseleave", () => {
+                        divChartTime.style.color = "black";
+                    });
 
                     chart.appendChild(divLineUp);
                     chart.appendChild(divLineBottom);
@@ -271,8 +323,8 @@ function caculateMarginLeft(inputStr) {
         return {
             marginLeft:
                 (parseInt(year) - startYear) * gap +
-                (parseInt(month) * gap) / 12 +
-                Math.min(31, startDay) / (12 * gap) +
+                ((parseInt(month) - 1) * gap) / 12 +
+                (Math.min(31, startDay) * gap) / (12 * 30) +
                 base,
             range: 0,
         };
@@ -290,8 +342,8 @@ function caculateMarginLeft(inputStr) {
             return {
                 marginLeft:
                     (c - startYear) * gap +
-                    (b * gap) / 12 +
-                    Math.min(31, a) / (12 * gap) +
+                    Math.ceil(((b - 1) * gap) / 12) +
+                    (Math.min(31, a) * gap) / (12 * 30) +
                     base,
                 range: 0,
             };
@@ -300,7 +352,7 @@ function caculateMarginLeft(inputStr) {
             var a = parseInt(parts[0]);
             var b = parseInt(parts[1]);
             return {
-                marginLeft: (b - startYear) * gap + (a * gap) / 12 + base,
+                marginLeft: (b - startYear) * gap + ((a - 1) * gap) / 12 + base,
                 range: 0,
             };
         }

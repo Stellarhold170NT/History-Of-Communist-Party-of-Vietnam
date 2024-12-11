@@ -216,7 +216,7 @@
             + Nội dung
             + + Nhấn mạnh mâu thuẫn chủ yếu đòi hỏi phải giải quyết cấp bách mâu thuẫn giữa dân tộc Việt Nam với đế quốc Pháp-Nhật
             + + Khẳng định dứt khoát nhiệm vụ duy nhất là nhiệm vụ giải phóng dân tộc. Cuộc cách mạng Đông Dương hiện tại không phải là cuộc cách mạng tư sản dân quyền, giải quyết hai vấn đề: phản đế và điền địa nữa, mà là cuộc cách mạng chỉ phải giải quyết một vấn đề cần kíp "dân tộc giải phóng"
-            + + Chủ trương thành lập Mặt trận Việt Minh. Các tổ chức quần chúng trong Mặt trận Việt Minh đều mang tên "cứu quốc"
+            + + + + Chủ trương thành lập ở mỗi nước Đông Dương một mặt trận riêng(chủ trương giải quyết vấn đề dân tộc trong khuôn khổ từng nước), thành lập Mặt trận Việt Minh. Các tổ chức quần chúng trong Mặt trận Việt Minh đều mang tên "cứu quốc"
             + + Chủ trương sau khi cách mạng thành công sẽ thành lập nước Việt Nam dân chủ cộng hòa theo tinh thần dân chủ
             + + Hội nghị xác định chuẩn bị khởi nghĩa vũ trang là nhiệm vụ trung tâm của Đảng và nhân dân
             + Ý nghĩa
@@ -292,9 +292,108 @@
             + + "Nước Việt Nam có quyền hưởng tự do và độc lập, và sự thật đã thành một nước tự do, độc lập. Toàn thể dân tộc Việt Nam quyết đem tất cả tinh thần và lực lượng, tính mạng và của cải để giữ vững quyền tự do, độc lập ấy"
             + Tuyên ngôn độc lập là một văn kiện lịch sử có giá trị tư tưởng lớn và ý nghĩa thực tiễn sâu sắc. Đó là thiên anh hùng ca chiến đấu và chiến thắng, chứa chan sức mạnh và niềm tin, tràn đầy lòng tự hào và ý chí đấu tranh của nhân dân ta trong sự nghiệp giành và giữ nền độc lập, tự do và toàn vẹn lãnh thổ của Tổ quốc Việt Nam
 
-    
     ## 2. Đảng lãnh đạo nhân dân đấu tranh bảo vệ chính quyền cách mạng và tiến hành thắng lợi cuộc kháng chiến chống thực dân Pháp xâm lược (1945 - 1954)
-    
+        [desc]
+
+        Sau Cách mạng Tháng Tám 1945, Đảng Cộng sản Đông Dương đã lãnh đạo nhân dân bảo vệ chính quyền non trẻ trước muôn vàn thử thách từ "thù trong giặc ngoài". Ngày 2/9/1945, Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập, khai sinh nước Việt Nam Dân chủ Cộng hòa. Trước sự xâm lược trở lại của thực dân Pháp, Đảng phát động toàn dân kháng chiến với chiến lược “vừa kháng chiến vừa kiến quốc”, huy động sức mạnh toàn dân tộc. Thắng lợi vang dội trong Chiến dịch Việt Bắc năm 1947 đã làm thất bại âm mưu đánh nhanh thắng nhanh của Pháp, củng cố vững chắc căn cứ địa cách mạng. Đỉnh cao của cuộc kháng chiến là chiến thắng lịch sử Điện Biên Phủ năm 1954, buộc thực dân Pháp phải ký Hiệp định Genève, công nhận độc lập, chủ quyền và toàn vẹn lãnh thổ của Việt Nam. Thời kỳ này ghi dấu tinh thần quả cảm và trí tuệ lãnh đạo sáng suốt của Đảng trong sự nghiệp bảo vệ nền độc lập dân tộc.
+        [list]
+            _: 1945-1946
+            * Đảng lãnh đạo cuộc đấu tranh bảo vệ chính quyền cách mạng 1945-1946
+            + Tình hình Việt Nam sau Cách mạng Tháng 8-1945
+            + Thuận lợi
+            + + Việt Nam trở thành quốc gia độc lập, nhân dân được quyền tự do
+            + + Đảng Cộng sản Đông Dương giữ vai trò lãnh đạo cách mạng
+            + + Chính quyền cách mạng được thiết lập thống nhất từ Trung ương đến cơ sở
+            + + Phong trào giải phóng dân tộc trên thế giới dâng cao, được Liên Xô và các nước ủng hộ
+            + Khó khăn
+            + + Chính trị: Chính quyền non trẻ, thiếu kinh nghiệm, chưa được quốc tế công nhận
+            + + Kinh tế: Hậu quả nặng nề từ chế độ cũ, nạn đói, lũ lụt, kinh tế kiệt quệ, kho bạc trống rỗng
+            + + Xã hội: 95% dân số mù chữ, nhiều hủ tục và tệ nạn xã hội
+            + + Ngoại giao: Bị cô lập, đối mặt với nhiều âm mưu chống phá từ các nước đế quốc
+            + + Quân sự: Lực lượng mỏng, thiếu kinh nghiệm, đối mặt với hơn 30 vạn quân nước ngoài (Tưởng, Pháp, Nhật)
+            + Kẻ thù
+            + + Miền Bắc: 20 vạn quân Tưởng và tay sai (Việt Quốc, Việt Cách) dưới danh nghĩa giải giáp quân Nhật
+            + + Miền Nam: Hơn 15 vạn quân Pháp, được Anh và Nhật hỗ trợ, tấn công Sài Gòn (23/9/1945)
+            + Chiến lược của Đảng
+            + + Với quân Tưởng và tay sai: Đảng thực hiện chủ trương: "Hoa Việt thân thiện", "Biến xung đột lớn thành xung đột nhỏ, biến xung đột nhỏ thành không có xung đột"
+            + - Cho Việt Quốc, Việt Cách tham gia Quốc hội và Chính phủ
+            + - Chấp nhận cho quân Tưởng tiêu tiền Quan kim, Quốc tệ
+            + - Cung cấp lương thực thực phẩm cho quân đội Tưởng
+            + + Với Pháp: Đảng lựa chọn giải pháp thương lượng và hòa hoãn với pháp
+            + - Sự kiện mở đầu cho sự hòa hoãn giữa Việt Nam với Pháp: Ký kết hiệp định Sơ bộ 6-3-1946 giữa Việt Nam với pháp
+            + - Lý do: Buộc quân Tưởng phải rút ngay về nước, tránh được tình trạng cùng một lúc phải đối phó với nhiều kẻ thù
+            + - Sau khi ký bản Hiệp định Sơ bộ, ngày 9-3-1946, Ban thường vụ Trung ương Đảng đã ra "Chỉ thị Hòa để tiến"
+            + - Ngày 14-9-1946, Việt Nam và Pháp kí bản "Tạm ước" nhằm giảm bớt căng thẳng, tạm thời đình chỉ xung đột ở miền Nam Việt Nam. Cũng nhờ đó, chúng ta đã duy trì một khoảng thời gian hòa bình hiếm có để tiếp tục xây dựng và phát triển lực lượng về mọi mặt
+            _: 3/9/1945
+            * Chính phủ lâm thời họp phiên đầu tiên dưới sự chủ trì của Hồ Chí Minh
+            + Chủ tịch Hồ Chí Minh xác định nhiệm vụ lớn trước mắt là: diệt giặc đói, diệt giặc dốt và diệt giặc ngoại xâm
+
+            _: 6/1/1946
+            * Cả nước tham gia cuộc bầu cử Quốc hội đầu tiên
+
+            _: 2/3/1946
+            * Kỳ họp Quốc hội thứ nhất thành lập chính phủ đầu tiên của nước Việt Nam dân chủ cộng hòa
+
+            _: 9/11/1946
+            * Hiến pháp đầu tiên của nước Việt Nam dân chủ cộng hòa được thông qua
+
+            _: 11/11/1945
+            * Đảng tuyên bố tự giải tán
+            + Ngày 11-11-1945, Đảng ta đã tuyên bố tự giải tán và lấy tên gọi là Hội nghiên cứu Chủ nghĩa Mác ở Đông Dương. Quyết định này nhằm thích ứng với tình hình mới sau khi kết thúc chiến tranh và khôi phục lại các hoạt động chính trị trong bối cảnh đất nước đang chuyển sang giai đoạn khó khăn mới
+
+            _: 25/11/1945
+            * Chỉ thị "Kháng chiến kiến quốc"
+            + Xác định kẻ thù chính: Thực dân pháp
+            + Mục tiêu: Giải phóng dân tộc với khẩu hiệu "Dân tộc trên hết, Tổ Quốc trên hết"
+            + Biện pháp: Bầu cử Quốc hội, lập Hiến Pháp, kháng chiến lâu dài
+            + Nhấn mạnh nguyên tắc: "Thêm bạn, bớt thù", "Hoa - Việt thân thiện", "Nhân nhượng có nguyên tắc"
+            + Đối với Pháp: "Độc lập về chính trị, nhân nhượng về kinh tế"
+
+            _: 19/12/1946
+            * Lời kêu gọi toàn quốc kháng Chiến
+            + Vào lúc 20 giờ ngày 19-12-1946, tất cả các chiến trường trong cả nước đồng loạt nổ súng
+            +  Nhân dân cả nước đã đứng lên theo lời kêu gọi của Hồ Chủ tịch
+            + Lời kêu gọi của Chủ tịch Hồ Chí Minh là tiếng gọi của non sông đất nước, là lời hịch cứu quốc, khơi dậy mạnh mẽ lòng tự hào dân tộc, truyền thống anh hùng bất khuất, kiên cường của nhân dân ta; làm cho cả nước sục sôi đứng lên chiến đấu với ý chí "quyết tử cho Tổ quốc quyết sinh", vì độc lập tự do thiêng liêng của Tổ quốc.
+            > "Hỡi đồng bào toàn quốc! Chúng ta muốn hòa bình, chúng ta phải nhân nhượng. Nhưng chúng ta càng nhân nhượng, thực dân Pháp càng lấn tới, vì chúng quyết tâm cướp nước ta lần nữa! Không! Chúng ta thà hy sinh tất cả, chứ nhất định không chịu mất nước, nhất định không chịu làm nô lệ."
+
+            _: 8/1947
+            * Tác phẩm "Kháng chiến nhất định thắng lợi" của Trường Chinh
+            + Tác phẩm đã nêu lên những phương châm cơ bản của đường lối kháng chiến là: Kháng chiến toàn dân, toàn diện, lâu dài và dựa vào sức mình là chính
+
+            _: 1947-1950
+            * Tổ chức, chỉ đạo cuộc kháng chiến chống Pháp
+            + Chiến lược của Đảng
+            + + Ngày 15-10-1947, để đối phó với cuộc tấn công của thực dân Pháp lên căn cứ địa Việt Bắc, Ban thường vụ Trung ương Đảng đã đề ra chỉ thị "Phá tan cuộc tấn công mùa Đông của giặc Pháp"
+            + + Thắng lợi ở chiến dịch Việt Bắc Thu-Đông 1947 đã làm phá sản chiến lược "đánh nhanh thắng nhanh" của thực dân Pháp
+            + + Để phá thế bao vây cô lập, tháng 6-1950 lần đầu tiên trung ương Đảng đã chủ trương mở chiến dịch tiến công quy mô lớn là Chiến dịch Biên Giới
+            _: 27/3/1948
+            * Phong trào thi đua ái quốc
+            + Phong trào Thi đua Ái quốc được phát động vào tháng 3 năm 1948 tại Việt Nam, nhằm mục đích động viên toàn dân tham gia vào công cuộc kháng chiến chống thực dân Pháp. Theo Hồ Chí Minh, mục đích thi đua ái quốc là “diệt giặc đói, diệt giặc dốt, diệt giặc ngoại xâm”. 
+            + Khẩu hiệu thi đua được Người đề ra trong Lời kêu gọi này chính là phản ánh đường lối chính trị và phương châm chính trị của Đảng trong cuộc kháng chiến chống thực dân Pháp xâm lược: Toàn dân kháng chiến, toàn diện kháng chiến, vừa kháng chiến cừa kiến quốc.
+            + Hướng thi đua chủ yếu là: tăng gia sản xuất và thi đua lập công
+
+           
+            _: 1951-1954
+            * Đẩy mạnh cuộc kháng chiến chống thực dân Pháp xâm lược
+
+            _: 2/1951
+            * Đại hội đại biểu toàn quốc lần thứ II
+            + Tổng bí thư: Trường Chinh
+            + Đảng ra hoạt động công khai lấy tên Đảng là "Đảng Lao động Việt Nam" sau 16 năm hoạt động bí mật
+            + Đại hội Đảng đã thông qua một văn kiện mang tính chất cương lĩnh đó là "Chính cương của Đảng Lao động Việt Nam"
+            + + Tính chất của xã hội Việt Nam là: dân chủ nhân dân, một phần thuộc địa và nửa phong kiến
+            + + Đối tượng chính là chủ nghĩa đế quốc xâm lược, cụ thể là thực dân Pháp. Đối tượng phụ là phong kiến, cụ thể là phong kiến phản động4
+            + + Nhiệm vụ cơ bản
+            + - Đánh đuổi đế quốc xâm lược, giành độc lập và thống nhất thật sự cho dân tộc
+            + - Xóa bỏ những di tích phong kiến và nửa phong kiến, làm cho người cày có ruộng
+            + - Phát triển chế độ dân chủ nhân dân, gây cơ sở cho CNXH
+            + + Nền tảng của khối đại đoàn kết dân tộc: công, nông và lao động trí thức
+            + + Nền tảng tư tưởng và kim chỉ nam được Đảng ta xác định tại Đại hội II là "Truyền thống dân tộc"
+            + + Xác định Đảng đại diện cho quyền lợi của: giai cấp công nhân và nhân dân lao động Việt Nam
+            
+            + Đầu tháng 3-1951, Đại hội toàn quốc thống nhất Việt Minh và Liên Việt đã họp quyết định thống nhất hai tổ chức thành Mặt trận Liên hiệp quốc dân Việt Nam (Liên Việt). Khối đại đoàn kết toàn dân phát triển lên một bước mới
+
+
     ## 3. Đảng lãnh đạo nhân dân ta tiến hành đồng thời hai nhiệm vụ chiến lược (1954 - 1975)
 
     ## 4. Đảng lãnh đạo sự nghiệp xây dựng chủ nghĩa xã hội và bảo vệ Tổ quốc xã hội chủ nghĩa (từ năm 1975 đến nay)

@@ -108,6 +108,7 @@
     left: calc(360px - 7px);
     /* transform: translateX(-50%); */
     background-color: black;
+    cursor: pointer;
 }
 
 .chart-history .diamond-bottom {
@@ -129,6 +130,7 @@
 }
 
 .chart-history .chart-header {
+    z-index: 3;
     position: absolute;
     top: calc(var(--base-margin-top) + 60px + 10px);
     left: calc(360px - 7px - 320px - 8px);
@@ -136,7 +138,7 @@
     font-weight: 700;
     /* background-color: red; */
     text-align: right;
-    width: 320px;
+    width: 280px;
     /* transform: translateX(-50%); */
     line-height: 1.25;
     transform: translateY(-50%);

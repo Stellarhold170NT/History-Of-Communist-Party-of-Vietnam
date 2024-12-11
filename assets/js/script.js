@@ -204,6 +204,11 @@ function parseMarkdown(idx, preLevel, lines, levels) {
                 var result = parseMarkdown(last, -1, lines, levels);
                 htmlString += result.htmlString;
                 lineCount += result.lineCount;
+            } else {
+                htmlString += createRowElement(1, "", "");
+                var result = parseMarkdown(idx, -1, lines, levels);
+                htmlString += result.htmlString;
+                lineCount += result.lineCount;
             }
 
             break;
