@@ -14,7 +14,8 @@
             + Trong đó, mâu thuẫn vừa cơ bản vừa chủ yếu nhất trong xã hội Việt Nam dưới thời Thực dân Pháp thống trị là mâu thuẫn giữa Toàn thể dân tộc Việt Nam với Thực dân Pháp
             > "Nếu giặc đến thì đánh, chỉ có đánh mới giữ được nước." (Nguyễn Tri Phương)
             
-            
+            _: 1897-1914
+            * Pháp thực hiện khai thác thuộc địa lần thứ nhất
     ## 2. Phong trào đấu tranh của nhân dân ta trước khi Đảng ra đời
         [desc]
         Trong quá trình đấu tranh dựng nước và giữ nước lâu dài, gian khổ, dân tộc ta sớm hình thành truyền thống yêu nước nồng nàn, tinh thần đấu tranh anh dũng, bất khuất. Vì vậy, ngay từ khi thực dân Pháp xâm lược, nhân dân ta liên tiếp đứng lên chống lại chúng. Từ năm 1858 đến trước năm 1930, hàng trăm cuộc khởi nghĩa, phong trào chống Pháp đã nổ ra theo nhiều khuynh hướng khác nhau, như khởi nghĩa của Trương Công Định, Thủ Khoa Huân, phong trào Cần Vương, phong trào Đông Du, Đông Kinh nghĩa thục, Duy Tân; các cuộc khởi nghĩa do Phan Đình Phùng, Hoàng Hoa Thám, Nguyễn Thái Học... lãnh đạo. Các cuộc khởi nghĩa, phong trào đấu tranh đó vô cùng anh dũng, nhưng đã bị thực dân Pháp đàn áp tàn bạo và đều thất bại.
@@ -292,6 +293,7 @@
             + + "Nước Việt Nam có quyền hưởng tự do và độc lập, và sự thật đã thành một nước tự do, độc lập. Toàn thể dân tộc Việt Nam quyết đem tất cả tinh thần và lực lượng, tính mạng và của cải để giữ vững quyền tự do, độc lập ấy"
             + Tuyên ngôn độc lập là một văn kiện lịch sử có giá trị tư tưởng lớn và ý nghĩa thực tiễn sâu sắc. Đó là thiên anh hùng ca chiến đấu và chiến thắng, chứa chan sức mạnh và niềm tin, tràn đầy lòng tự hào và ý chí đấu tranh của nhân dân ta trong sự nghiệp giành và giữ nền độc lập, tự do và toàn vẹn lãnh thổ của Tổ quốc Việt Nam
 
+
     ## 2. Đảng lãnh đạo nhân dân đấu tranh bảo vệ chính quyền cách mạng và tiến hành thắng lợi cuộc kháng chiến chống thực dân Pháp xâm lược (1945 - 1954)
         [desc]
 
@@ -392,9 +394,76 @@
             + + Xác định Đảng đại diện cho quyền lợi của: giai cấp công nhân và nhân dân lao động Việt Nam
             
             + Đầu tháng 3-1951, Đại hội toàn quốc thống nhất Việt Minh và Liên Việt đã họp quyết định thống nhất hai tổ chức thành Mặt trận Liên hiệp quốc dân Việt Nam (Liên Việt). Khối đại đoàn kết toàn dân phát triển lên một bước mới
-
-
+            _: 7/5/1954
+            * Chiến thắng lịch sử Điện Biên Phủ
+            _: 20/7/1954
+            * Hiệp định Giơnevơ được ký kết, hòa bình được lập lại ở Đông Dương
+            _: 16/5/1955
+            * Toàn bộ quân viễn chính Pháp rời đảo Cát Bà, Miền Bắc hoàn toàn được giải phóng
     ## 3. Đảng lãnh đạo nhân dân ta tiến hành đồng thời hai nhiệm vụ chiến lược (1954 - 1975)
+        [desc]
+        Với thắng lợi của cuộc kháng chiến chống thực dân Pháp, cách mạng Việt Nam bước vào thời kỳ mới với đặc điểm là đất nước tạm thời chia làm hai miền với hai chế độ chính trị - xã hội đối lập nhau. Đảng xác định con đường phát triển tất yếu của cách mạng Việt Nam là tiến hành đồng thời hai nhiệm vụ chiến lược: Một là, tiến hành cách mạng xã hội chủ nghĩa ở miền Bắc, xây dựng miền Bắc thành căn cứ địa vững mạnh của cách mạng cả nước. Hai là, tiến hành cách mạng dân tộc dân chủ nhân dân ở miền Nam, chống đế quốc Mỹ và bè lũ tay sai, giải phóng miền Nam, thực hiện thống nhất nước nhà.
+        [list]
+            _: 1954-1960
+            * Khôi phục kinh tế, xây dựng CNXH ở Miền Bắc, chuyển cách mạng miền Nam sang thế tiến công
+            _: 1954-1960
+            * Chiến tranh đơn phương (1954-1960)
+            + Mục tiêu của quân Mỹ
+            + + Củng cố chính quyền Ngô Đình Diệm tại miền Nam Việt Nam sau Hiệp định Giơnevơ (1954)
+            + + Ngăn chặn sự phát triển của lực lượng cách mạng do Mặt trận Dân tộc Giải phóng miền Nam Việt Nam lãnh đạo
+            + Đặc điểm
+            + + Mỹ hậu thuẫn chính quyền Ngô Đình Diệm, viện trợ kinh tế và quân sự
+            + + Xây dựng quân đội Việt Nam Cộng Hòa (VNCH) để đàn áp phong trào cách mạng
+            + + Tăng cường tổ chức "tố cộng", "diệt cộng" nhằm triệt phá cơ sở cách mạng
+            + Kết quả
+            + + Phong trào cách mạng vẫn phát triển mạnh mẽ, đặc biệt tại vùng nông thôn miền Nam
+            + + Chính quyền Ngô Đình Diệm bị lung lay, dẫn đến sự bất ổn chính trị
+            _: 1/1959
+            * Hội nghị lần thứ 15 Ban chấp hành TW Đảng
+            + Hội nghị lần thứ 15 đã thông qua nghị quyết một cách toàn diện về đường lối cách mạng dân tộc dân chủ nhân dân ở miền Nam 
+            + Xác định phương pháp cách và và phương pháp đấu tranh là dùng bạo lực cách mạng
+            + Kết hợp đấu tranh chính trị và đấu tranh vũ trang
+            _: 1961-1965
+            * Chiến tranh đặc biệt (1961-1965)
+            + Mục tiêu của quân Mỹ
+            + + Dùng người Việt đánh người Việt, hạn chế sự can thiệp trực tiếp của quân đội Mỹ
+            + + Bình định miền Nam, ngăn chặn phong trào cách mạng
+
+            + Đặc điểm
+            + + Thực hiện kế hoạch "ấp chiến lược", gom dân vào các khu tập trung để cô lập lực lượng cách mạng
+            + + Trang bị vũ khí và cố vấn quân sự Mỹ cho quân đội Việt Nam Cộng Hòa
+            + + Sử dụng trực thăng và các phương tiện hiện đại để tấn công quân cách mạng
+            + Kết quả
+            + + Phong trào cách mạng ngày càng mạnh mẽ, các "ấp chiến lược" bị phá vỡ
+            + + Mỹ thất bại trong việc cô lập lực lượng cách mạng
+
+            _: 1965-1968
+            * Chiến tranh cục bộ (1965-1968)
+            + Mục tiêu của quân Mỹ
+            + + Mỹ trực tiếp đưa quân đội vào miền Nam Việt Nam để đẩy lùi lực lượng cách mạng
+            + + Tạo ưu thế quân sự thông qua các chiến dịch lớn
+            + Đặc Điểm
+            + + Mỹ đưa quân đội viễn chinh vào miền Nam Việt Nam đạt đỉnh cao khoảng 500000 quân (1968)
+            + + Sử dụng chiến lược "tìm diệt", mở các chiến dịch quy mô lớn như Chiến dịch Starlite, Chiến dịch Junction City
+            + Kết quả
+            + + Cuộc Tổng tiến công và nổi dậy Tết Mậu Thân (1968) làm Mỹ tổn thất nặng nề
+            + + Mỹ thất bại trong việc đạt mục tiêu quân sự và chính trị buộc phải thay đổi chiến lược
+
+            _: 1969-1973
+            * Việt Nam hóa chiến tranh (1969-1973)
+            + Mục tiêu của quân Mỹ
+            + + Rút dần quân đội Mỹ, giao lại chiến trường cho quân đội Việt Nam Cộng Hòa
+            + + Vẫn duy trì sự hiện diện và hỗ trợ quân sự để ngăn chặn sự thắng thế của lực lượng cách mạng
+
+            + Đặc Điểm
+            + + Thực hiện kế hoạch "Việt Nam hóa chiến tranh", tăng cường vai trò của quân đội Việt Nam Cộng Hòa
+            + + Mỹ vẫn hỗ trợ bằng không quân, pháo binh và viện trợ quân sự
+            + + Tiếp tục chiến tranh phá hoại miền Bắc (Chiến dịch Linebacker II)
+            + Kết quả
+            + + Quân đội Việt Nam Cộng hòa không đủ sức thay thế quân Mỹ
+            + + Chiến thắng lịch sử của quân dân Việt Nam trong Chiến dịch Điện Biên Phủ trên không (1972)
+
+
 
     ## 4. Đảng lãnh đạo sự nghiệp xây dựng chủ nghĩa xã hội và bảo vệ Tổ quốc xã hội chủ nghĩa (từ năm 1975 đến nay)
         [desc]

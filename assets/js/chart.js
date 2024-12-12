@@ -142,6 +142,10 @@ function createChart() {
                     var heightLineUp = 40 + (index % cntRow) * 40;
                     var heightLineBottom = 60 + (index % cntRow) * 60;
 
+                    if (header.includes("Chiến tranh đơn phương (1954-1960)")) {
+                        heightLineBottom += 60;
+                    }
+
                     console.log(
                         "timelinebase " +
                             timeline +
@@ -273,7 +277,14 @@ function createPoint() {
         var div = document.createElement("div");
         div.classList.add("point");
         div.style.left = marginLeft + "px";
+
+        var marginLeft2 = base + cnt * gapYear + gapYear / 2 - smallOffset;
+
+        var div2 = document.createElement("div");
+        div2.classList.add("point");
+        div2.style.left = marginLeft2 + "px";
         chart.append(div);
+        if (idx < endTimeline) chart.append(div2);
 
         /* Create year */
         var marginLeftYear = base + cnt * gapYear;
@@ -282,6 +293,13 @@ function createPoint() {
         divYear.innerHTML = idx;
         divYear.style.left = marginLeftYear + "px";
         chart.append(divYear);
+
+        var marginLeftYear2 = base + cnt * gapYear + gapYear / 2;
+        var divYear2 = document.createElement("div");
+        divYear2.classList.add("year");
+        divYear2.innerHTML = idx + 5;
+        divYear2.style.left = marginLeftYear2 + "px";
+        if (idx < endTimeline) chart.append(divYear2);
 
         idx += 10;
         cnt += 1;
