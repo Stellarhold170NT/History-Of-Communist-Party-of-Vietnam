@@ -16,6 +16,9 @@
             
             _: 1897-1914
             * Pháp thực hiện khai thác thuộc địa lần thứ nhất
+    
+            _: 1919-1929
+            * Pháp thực hiện khai thác thuộc địa lần thứ hai
     ## 2. Phong trào đấu tranh của nhân dân ta trước khi Đảng ra đời
         [desc]
         Trong quá trình đấu tranh dựng nước và giữ nước lâu dài, gian khổ, dân tộc ta sớm hình thành truyền thống yêu nước nồng nàn, tinh thần đấu tranh anh dũng, bất khuất. Vì vậy, ngay từ khi thực dân Pháp xâm lược, nhân dân ta liên tiếp đứng lên chống lại chúng. Từ năm 1858 đến trước năm 1930, hàng trăm cuộc khởi nghĩa, phong trào chống Pháp đã nổ ra theo nhiều khuynh hướng khác nhau, như khởi nghĩa của Trương Công Định, Thủ Khoa Huân, phong trào Cần Vương, phong trào Đông Du, Đông Kinh nghĩa thục, Duy Tân; các cuộc khởi nghĩa do Phan Đình Phùng, Hoàng Hoa Thám, Nguyễn Thái Học... lãnh đạo. Các cuộc khởi nghĩa, phong trào đấu tranh đó vô cùng anh dũng, nhưng đã bị thực dân Pháp đàn áp tàn bạo và đều thất bại.
@@ -53,6 +56,14 @@
             * Nguyễn Ái Quốc đọc Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và thuộc địa của Lênin
             + Bản Luận cương đó đã đáp ứng đúng nguyện vọng tha thiết mà Nguyễn Ái Quốc đang ấp ủ: độc lập cho Tổ quốc, tự do cho đồng bào
             + Sau này Người viết: "Luận cương của Lênin làm cho tôi rất cảm động, phấn khởi, sáng tỏ, tin tưởng biết bao! Tôi vui mừng đến phát khóc lên. Ngồi một mình trong buồng mà tôi nói to lên như đang nói trước quần chúng đông đảo: "Hỡi đồng bào bị đọa đầy đau khổ! Đây là cái cần thiết cho chúng ta, đây là con đường giải phóng chúng ta!"
+            
+            _: 1921
+            * Hội liên hiệp các dân tộc thuộc địa được thành lập
+            + Năm 1921, tại thủ đô Paris (Pháp), Nguyễn Ái Quốc cùng các đồng chí của mình từ các nước thuộc địa của Pháp sáng lập Hội Liên hiệp các dân tộc thuộc địa. Mục đích của tổ chức này là nhằm tập hợp lực lượng, thống nhất hành động của nhân dân các nước thuộc địa chống chủ nghĩa đế quốc, giải phóng dân tộc
+            + Báo Le Paria, cơ quan ngôn luận của Hội Liên hiệp các dân tộc thuộc địa, xuất bản số đầu tiên với tôn chỉ: “Báo Le Paria là vũ khí chiến đấu với sứ mạng rõ ràng: Giải phóng con người”
+            +  tên gọi của báo, Nguyễn Ái Quốc giải thích: “Paria nguyên là tiếng Ấn Độ dùng để gọi những người đã mất hết mọi quyền lợi về tôn giáo và xã hội. Nghĩa rộng, người Pháp dùng để gọi những người cùng khổ”
+            > “Trong lịch sử của quần chúng bản xứ các thuộc địa của Pháp, chưa có một tờ báo nào lập ra để kêu to sự thống khổ và sự nghèo nàn chung của họ, không phân biệt xứ sở và chủng tộc. Báo Le Paria ra đời do sự thông cảm chung của các đồng chí ở Bắc Phi, Trung Phi và Tây Phi thuộc Pháp, ở Madagascar, Đông Dương, Antilles và Guyam”
+            
             _: 6/1925
             * Hội Việt Nam Cách Mạng Thanh Niên ra đời
             + Tháng 6-1925, Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng thanh niên tại Quảng Châu (Trung Quốc)
@@ -60,6 +71,16 @@
             + Hạt nhân: Cộng Sản Đoàn
             + Cơ quan tuyên truyền: báo Thanh Niên. Báo Thanh niên đánh dấu sự ra đời của báo chí cách mạng Việt Nam
             + Ý nghĩa:  Tổ chức quan trọng nhất, được cọi như là bước chuẩn bị trực tiếp cho việc thành lập Đảng về cơ cấu tổ chức, là tổ chức quá độ trung gian trước khi thành lập Đảng cộng sản Việt Nam là "Hội Việt Nam cách mạng thanh niên"
+
+            _: 1928-1929
+            * Hội Việt Nam Cách mạng Thanh niên thực hiện chủ chương "Vô sản hóa"
+            + Hội Việt Nam Cách mạng Thanh niên thực hiện chủ chương "Vô sản hóa" trong khoảng thời gian từ cuối năm 1928 đến đầu năm 1929
+            + Nội dung của chủ trương Vô sản hóa
+            + + Cử cán bộ đi vào thực tiễn lao động sản xuất, mục tiêu là hòa mình với giai cấp công nhân, hiểu rõ đời sống và những khó khăn của họ
+            + + Truyền bá tư tưởng cách mạng
+            + + Xây dựng tổ chức và lãnh đạo phong trào công nhân
+            + Mục tiêu: truyền bá chủ nghĩa Mác - Lênin để nâng cao ý thức chính trị cho giai cấp công nhân
+            + Vai trò: thúc đẩy phong trào công nhân chuyển từ tự phát sang tự giác
 # II. NHỮNG THÀNH TỰU VẺ VANG CỦA CÁCH MẠNG VIỆT NAM DƯỚI SỰ LÃNH ĐẠO CỦA ĐẢNG
     ## 1. Đảng lãnh đạo và tổ chức các cuộc đấu tranh cách mạng, khởi nghĩa giành chính quyền - Cách mạng Tháng Tám 1945
         [desc]
@@ -394,6 +415,9 @@
             + + Xác định Đảng đại diện cho quyền lợi của: giai cấp công nhân và nhân dân lao động Việt Nam
             
             + Đầu tháng 3-1951, Đại hội toàn quốc thống nhất Việt Minh và Liên Việt đã họp quyết định thống nhất hai tổ chức thành Mặt trận Liên hiệp quốc dân Việt Nam (Liên Việt). Khối đại đoàn kết toàn dân phát triển lên một bước mới
+            _: 1952
+            * Chiến dịch Tây Bắc (14-10 đến 10-12-1952)
+            + Chiến dịch này nhằm tiêu diệt một bộ phận sinh lực địch, phá âm mưu lập "Xứ Thái tự trị" của thực dân Pháp
             _: 7/5/1954
             * Chiến thắng lịch sử Điện Biên Phủ
             _: 20/7/1954
@@ -464,7 +488,10 @@
             + + Chiến thắng lịch sử của quân dân Việt Nam trong Chiến dịch Điện Biên Phủ trên không (1972)
 
 
-
+            _: 27/1/1973
+            * Hiệp định Paris về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam
+            + Ngày 15/1/1973 do bị thiệt hại quá nặng nề, Mỹ tuyên bố ngừng hoàn toàn chiến tranh phá hoại miền Bắc lần 2
+            + Hiệp định Paris về chấm dứt chiến tranh, lập lại hòa bình tại Việt Nam được ký ngày 27/1/1973, được coi là "cuộc đàm phán dài nhất lịch sử tại Paris", sau gần 5 năm đàm phán, với 201 phiên họp công khi, 45 cuộc gặp riêng cấp cao, 24 cuộc họp bí mật
     ## 4. Đảng lãnh đạo sự nghiệp xây dựng chủ nghĩa xã hội và bảo vệ Tổ quốc xã hội chủ nghĩa (từ năm 1975 đến nay)
         [desc]
         Cuộc kháng chiến chống Mỹ kết thúc thắng lợi, hoà bình được lập lại. Tuy nhiên mỗi miền đang tồn tại một  hình thức tổ chức nhà nước khác nhau. Nhiệm vụ đặt ra: hoàn thành thống nhất đất nước về mặt nhà nước và khắc phục hậu quả của chiến tranh, khôi phục và phát triển KT-XH ở hai miền Nam, Bắc. 
