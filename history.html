@@ -121,6 +121,30 @@
                 transition: opacity 0.2s ease;
             }
         </style>
+
+        <style>
+            /* Định vị lớp parallax */
+            /* .parallax-layer {
+                position: absolute;
+                will-change: transform;
+                transition: transform 0.1s ease-out;
+            } */
+
+            /* Tùy chỉnh tốc độ */
+            /* .illustration {
+                top: 10%;
+                left: 5%;
+                width: 300px;
+                z-index: 2;
+            } */
+
+            /* .map-vietnam {
+                bottom: 10%;
+                right: 5%;
+                width: 200px;
+                z-index: 3;
+            } */
+        </style>
     </head>
     <body>
         <div class="main-content">
@@ -402,6 +426,24 @@
                         navBarSearchBox.classList.add("hidden"); // Ẩn search-box trong nav-bar
                     }
                 });
+            });
+        </script>
+
+        <script>
+            window.addEventListener("scroll", () => {
+                const scrollY = window.scrollY;
+
+                // Hiệu ứng parallax
+                if (window.innerWidth > 768) {
+                    document.querySelector(
+                        ".illustration"
+                    ).style.transform = `translateX(-50%) translateY(${
+                        scrollY * 0.3
+                    }px)`;
+                    document.querySelector(
+                        ".map-vietnam"
+                    ).style.transform = `translateY(${scrollY * 0.5}px)`;
+                }
             });
         </script>
     </body>
