@@ -439,6 +439,13 @@ table .timeline-desc {
     background-color: var(--background-color);
     box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px,
         rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+    transition: box-shadow 0.2s ease;
+}
+
+.search-box input:hover {
+    transition: box-shadow 0.2s ease;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px,
+        rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
 }
 .search-box .box {
     position: relative;
